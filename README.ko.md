@@ -21,6 +21,8 @@
 | 밤만쥬 | [`themes/kurimanju`](themes/kurimanju) | [미리보기](previews/kurimanju-light.png) | [미리보기](previews/kurimanju-dark.png) |
 | 갑옷 씨(관리인) | [`themes/yoroi`](themes/yoroi) | [미리보기](previews/yoroi-light.png) | [미리보기](previews/yoroi-dark.png) |
 | 유산균(むちゃうマン) | [`themes/yusangyun`](themes/yusangyun) | [미리보기](previews/yusangyun-light.png) | [미리보기](previews/yusangyun-dark.png) |
+| 시사(シーサー, 라멘집 알바) | [`themes/shisa`](themes/shisa) | [미리보기](previews/shisa-light.png) | [미리보기](previews/shisa-dark.png) |
+| 할로윈(2026-10-01~11-07, KST) | [`themes/halloween`](themes/halloween) | [미리보기](previews/halloween-light.png) | [미리보기](previews/halloween-dark.png) |
 
 미리보기의 방과 메시지는 지어낸 것입니다.
 

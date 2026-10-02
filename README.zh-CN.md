@@ -21,6 +21,8 @@
 | 栗子馒头（Kurimanju） | [`themes/kurimanju`](themes/kurimanju) | [预览](previews/kurimanju-light.png) | [预览](previews/kurimanju-dark.png) |
 | 铠甲人（Yoroi-san，管理员） | [`themes/yoroi`](themes/yoroi) | [预览](previews/yoroi-light.png) | [预览](previews/yoroi-dark.png) |
 | 乳酸菌侠（Muchauman） | [`themes/yusangyun`](themes/yusangyun) | [预览](previews/yusangyun-light.png) | [预览](previews/yusangyun-dark.png) |
+| 风狮（Shisa，拉面店店员） | [`themes/shisa`](themes/shisa) | [预览](previews/shisa-light.png) | [预览](previews/shisa-dark.png) |
+| 万圣节（2026年10月1日至11月7日，KST） | [`themes/halloween`](themes/halloween) | [预览](previews/halloween-light.png) | [预览](previews/halloween-dark.png) |
 
 预览中的房间和消息都是虚构的。
 

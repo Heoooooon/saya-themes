@@ -1,0 +1,25 @@
+{
+  "name": "시사 밤영업 🦁",
+  "mode": "dark",
+  "description": "팬 메이드·비공식·비영리 테마. 색은 공식 시사 스티커 그림(크림 몸·산호색 갈기)에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#2b1d16",
+    "header": "#3a2820",
+    "list": "#231712",
+    "listSelected": "#4b332a",
+    "listHover": "#2f201a",
+    "listFill": "#3d2a22",
+    "text": "#fbf3de",
+    "textMuted": "#dcc3b0",
+    "rule": "#f09870",
+    "bubbleSelf": "#6e3a2a",
+    "bubbleSelfText": "#ffffff",
+    "bubbleOther": "#3d2a22",
+    "bubbleOtherText": "#fbf3de",
+    "link": "#f8c0c8",
+    "input": "#3d2a22",
+    "ground": "#1c120d",
+    "accent": "#f09870",
+    "accentText": "#3a2418"
+  }
+}

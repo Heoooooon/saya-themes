@@ -21,6 +21,8 @@
 | くりまんじゅう | [`themes/kurimanju`](themes/kurimanju) | [プレビュー](previews/kurimanju-light.png) | [プレビュー](previews/kurimanju-dark.png) |
 | 鎧さん（管理人） | [`themes/yoroi`](themes/yoroi) | [プレビュー](previews/yoroi-light.png) | [プレビュー](previews/yoroi-dark.png) |
 | むちゃうマン（乳酸菌） | [`themes/yusangyun`](themes/yusangyun) | [プレビュー](previews/yusangyun-light.png) | [プレビュー](previews/yusangyun-dark.png) |
+| シーサー（ラーメン屋さんのアルバイト） | [`themes/shisa`](themes/shisa) | [プレビュー](previews/shisa-light.png) | [プレビュー](previews/shisa-dark.png) |
+| ハロウィン（2026年10月1日〜11月7日、KST） | [`themes/halloween`](themes/halloween) | [プレビュー](previews/halloween-light.png) | [プレビュー](previews/halloween-dark.png) |
 
 プレビューのルームとメッセージは架空のものです。
 

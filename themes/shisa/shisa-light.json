@@ -1,0 +1,25 @@
+{
+  "name": "시사 라멘집 🦁",
+  "mode": "light",
+  "description": "팬 메이드·비공식·비영리 테마. 색은 공식 시사 스티커 그림(크림 몸·산호색 갈기)에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#fbf3de",
+    "header": "#f5e2c2",
+    "list": "#fffbf0",
+    "listSelected": "#f8e6c8",
+    "listHover": "#fdf6e8",
+    "listFill": "#f7ebd4",
+    "text": "#3a2418",
+    "textMuted": "#6d4a3a",
+    "rule": "#f09870",
+    "bubbleSelf": "#f9d2b8",
+    "bubbleSelfText": "#3a2418",
+    "bubbleOther": "#fffbf0",
+    "bubbleOtherText": "#3a2418",
+    "link": "#8f3414",
+    "input": "#fffbf0",
+    "ground": "#f6e8d0",
+    "accent": "#f09870",
+    "accentText": "#3a2418"
+  }
+}

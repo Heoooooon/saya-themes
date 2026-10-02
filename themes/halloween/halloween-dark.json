@@ -1,0 +1,25 @@
+{
+  "name": "할로윈 한밤 🎃",
+  "mode": "dark",
+  "description": "팬 메이드·비공식·비영리 할로윈 테마. 그림은 ちいかわマーケット 공식 てんし♡あくま 마스코트·カボチャなうさぎ 상품 사진에서 배경을 지운 것이고, 박쥐·호박 점 장식은 직접 그렸습니다. © nagano / chiikawa committee",
+  "tokens": {
+    "wall": "#241a2b",
+    "header": "#33253b",
+    "list": "#1c1422",
+    "listSelected": "#3f2c48",
+    "listHover": "#261b2d",
+    "listFill": "#322539",
+    "text": "#fff1e0",
+    "textMuted": "#d9c3c9",
+    "rule": "#ff8c1a",
+    "bubbleSelf": "#5a3474",
+    "bubbleSelfText": "#ffffff",
+    "bubbleOther": "#33253b",
+    "bubbleOtherText": "#fff1e0",
+    "link": "#ffb066",
+    "input": "#33253b",
+    "ground": "#150f1a",
+    "accent": "#ff8c1a",
+    "accentText": "#2b1a2e"
+  }
+}

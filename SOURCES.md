@@ -161,3 +161,38 @@ All pictures belong to their rights holders. 「ちいかわ」 © nagano / chii
   - ちいかわマーケット 「ちいかわパーク ふわふわくったりぬいぐるみ（むちゃうマン）」 상품 사진 (https://chiikawamarket.jp/products/4571609351603)
 - 색은 TV 아니메 『ちいかわ』 第138話「むちゃうマン②」의 무대 색에서 뽑았습니다(공식 YouTube 1주 한정 공개분 https://www.youtube.com/watch?v=XQgWOBWmsuk, 지금은 비공개라 archive.org 미러 https://archive.org/details/chiikawa-anime-ep138 에서 확인).
 - 그림 테마는 공식 그림을 담고 있습니다. 비영리로만 쓰고, 권리자가 요청하면 바로 지웁니다.
+
+## 시사 (`themes/shisa/`)
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [shisa-light.json](themes/shisa/shisa-light.json) | 시사 라멘집 | light | 없음(색만) |
+| [shisa-dark.json](themes/shisa/shisa-dark.json) | 시사 밤영업 | dark | 없음(색만) |
+| [shisa-light-img.json](themes/shisa/shisa-light-img.json) | 시사 라멘집 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [shisa-dark-img.json](themes/shisa/shisa-dark-img.json) | 시사 밤영업 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+- シーサー는 라멘집 알바 캐릭터입니다. 정체성은 [공식 컬렉션](https://chiikawamarket.jp/collections/shisa)과 [SEGA FAVE 라멘집 제품](https://www.segatoys.co.jp/brand/chiikawahouse/shisaramenshop/)에서 확인했습니다.
+- 몸의 크림색 `#f8f0d8`·갈기 산호색 `#f09870`·볼 `#f8c0c8`은 공식 스티커의 불투명 픽셀에서 뽑았습니다.
+- wall/list: ナガノ 공식 LINE [ちいかわ(ちいかわ多), 25264193](https://store.line.me/stickershop/product/25264193/ja)의 641811410(그릇), 641811421(밀짚모자). mascot: 같은 팩의 641811407.
+- badge: ナガノ 공식 LINE [ちいかわ(モモンガ多), 32411274](https://store.line.me/stickershop/product/32411274/ja)의 806221108.
+- loader: 動画工房 공식 [動くLINEスタンプ vol.4, 33799640](https://store.line.me/stickershop/product/33799640/ja)의 838685767 「お師匠ッ」. 글자 없는 시사 본체를 온전히 남긴 12프레임 점프 애니메이션입니다.
+- 원본 이미지 주소: `https://stickershop.line-scdn.net/stickershop/v1/sticker/<id>/iPhone/sticker@2x.png`, 로더는 `sticker_animation@2x.png`.
+
+## 할로윈 (`themes/halloween/`)
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [halloween-light.json](themes/halloween/halloween-light.json) | 할로윈 호박등 | light | 없음(색만) |
+| [halloween-dark.json](themes/halloween/halloween-dark.json) | 할로윈 한밤 | dark | 없음(색만) |
+| [halloween-light-img.json](themes/halloween/halloween-light-img.json) | 할로윈 호박등 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [halloween-dark-img.json](themes/halloween/halloween-dark-img.json) | 할로윈 한밤 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+- 모음 기간: `from: 2026-10-01`, `until: 2026-11-07`, KST 양끝 포함. 기간 필터 지원 앱의 모음 표시만 제한하며 이미 저장한 테마에는 만료를 강제하지 않습니다.
+- [공식 할로윈 컬렉션](https://chiikawamarket.jp/collections/%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3)의 「てんし♡あくま」 분장 봉제 사진에서 배경·볼체인을 지웠습니다. 평면 할로윈 선화 대신 공식 분장 캐릭터 사진과 계절 색을 조합했습니다.
+- wall/mascot/loader: [악마 우사기 4582662984608](https://chiikawamarket.jp/products/4582662984608), wall: [타락천사 하치와레 4582662984622](https://chiikawamarket.jp/products/4582662984622), [악마 모몽가 4582662984585](https://chiikawamarket.jp/products/4582662984585), [악마 밤만쥬 4582662984592](https://chiikawamarket.jp/products/4582662984592).
+- list: [아기 악마 우사기 4582662984455](https://chiikawamarket.jp/products/4582662984455), [아기 천사 치이카와 4582662984479](https://chiikawamarket.jp/products/4582662984479).
+- 위 상품들의 원본 사진: `https://cdn.shopify.com/s/files/1/0626/7142/1681/products/<id>_1.jpg`.
+- badge: [カボチャなうさぎ 귀걸이 4571609353249](https://chiikawamarket.jp/products/4571609353249), 원본 [상품 사진](https://cdn.shopify.com/s/files/1/0626/7142/1681/files/4571609353249_1.jpg).
+- 호박 주황 `#ff8c1a` 계열·보라·밤색 팔레트입니다. 사진에서 호박 `#f08040`·연보라 `#e0d0e0`를 측정해 조정했습니다.
+- **직접 만든 부분:** 작은 박쥐·호박 점 장식, 공식 악마 우사기 사진을 깡충 움직이는 로더 동작. 공식 애니메이션이 아닙니다. 나머지 캐릭터 그림은 위 공식 상품 사진입니다.
+- 두 테마 모두 팬 메이드·비공식·비영리이며 「ちいかわ」 © nagano / chiikawa committee. 그림은 권리자 소유이며 요청 시 삭제합니다.

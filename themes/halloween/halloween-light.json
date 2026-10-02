@@ -1,0 +1,25 @@
+{
+  "name": "할로윈 호박등 🎃",
+  "mode": "light",
+  "description": "팬 메이드·비공식·비영리 할로윈 테마. 그림은 ちいかわマーケット 공식 てんし♡あくま 마스코트·カボチャなうさぎ 상품 사진에서 배경을 지운 것이고, 박쥐·호박 점 장식은 직접 그렸습니다. © nagano / chiikawa committee",
+  "tokens": {
+    "wall": "#fff1e0",
+    "header": "#ffd9b0",
+    "list": "#fffaf3",
+    "listSelected": "#ffe0bf",
+    "listHover": "#fff5ea",
+    "listFill": "#ffe9d4",
+    "text": "#2b1a2e",
+    "textMuted": "#5c4360",
+    "rule": "#ff8c1a",
+    "bubbleSelf": "#ffd2a3",
+    "bubbleSelfText": "#2b1a2e",
+    "bubbleOther": "#fffaf3",
+    "bubbleOtherText": "#2b1a2e",
+    "link": "#5b2591",
+    "input": "#fffaf3",
+    "ground": "#ffe7cf",
+    "accent": "#ff8c1a",
+    "accentText": "#2b1a2e"
+  }
+}
