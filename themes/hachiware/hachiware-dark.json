@@ -1,0 +1,25 @@
+{
+  "name": "하치와레 밤하늘 🐱",
+  "mode": "dark",
+  "description": "팬 메이드·비공식·비영리 테마. 색은 공식 하치와레 스티커 그림에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#1b2b36",
+    "header": "#233846",
+    "list": "#16232d",
+    "listSelected": "#2f4a5c",
+    "listHover": "#1f303c",
+    "listFill": "#263a48",
+    "text": "#f4f8fb",
+    "textMuted": "#b9cdd8",
+    "rule": "#77a6be",
+    "bubbleSelf": "#2f5468",
+    "bubbleSelfText": "#ffffff",
+    "bubbleOther": "#2a3f4d",
+    "bubbleOtherText": "#f4f8fb",
+    "link": "#ffc2ca",
+    "input": "#2a3f4d",
+    "ground": "#121c24",
+    "accent": "#77a6be",
+    "accentText": "#1b2b36"
+  }
+}

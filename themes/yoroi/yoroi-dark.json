@@ -1,0 +1,25 @@
+{
+  "name": "갑옷 씨(관리인) 야간근무 🛡️",
+  "mode": "dark",
+  "description": "팬 메이드·비공식·비영리 테마. 색은 공식 갑옷 씨 스티커 그림에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#26221f",
+    "header": "#34302c",
+    "list": "#1f1b19",
+    "listSelected": "#4a433d",
+    "listHover": "#2c2825",
+    "listFill": "#3a3430",
+    "text": "#f3f0ec",
+    "textMuted": "#c9c0b7",
+    "rule": "#a8a098",
+    "bubbleSelf": "#4b443e",
+    "bubbleSelfText": "#ffffff",
+    "bubbleOther": "#3a3430",
+    "bubbleOtherText": "#f3f0ec",
+    "link": "#f3bcc6",
+    "input": "#3a3430",
+    "ground": "#181513",
+    "accent": "#c0b8b0",
+    "accentText": "#26221f"
+  }
+}

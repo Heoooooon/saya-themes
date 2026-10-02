@@ -1,0 +1,25 @@
+{
+  "name": "밤만쥬 선술집 🌰",
+  "mode": "dark",
+  "description": "팬 메이드·비공식·비영리 테마. 색은 공식 밤만쥬 스티커 그림에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#2a1c14",
+    "header": "#3a281c",
+    "list": "#23170f",
+    "listSelected": "#4d3426",
+    "listHover": "#302017",
+    "listFill": "#3f2b1f",
+    "text": "#fbf0dc",
+    "textMuted": "#d8c0a0",
+    "rule": "#a06850",
+    "bubbleSelf": "#6b4530",
+    "bubbleSelfText": "#ffffff",
+    "bubbleOther": "#3f2b1f",
+    "bubbleOtherText": "#fbf0dc",
+    "link": "#f8c0c8",
+    "input": "#3f2b1f",
+    "ground": "#1b120c",
+    "accent": "#f8e0c0",
+    "accentText": "#3d2618"
+  }
+}

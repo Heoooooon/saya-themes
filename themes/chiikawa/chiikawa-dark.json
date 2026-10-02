@@ -1,0 +1,25 @@
+{
+  "name": "치이카와 코코아 🐹",
+  "mode": "dark",
+  "description": "팬 메이드·비공식·비영리 테마. 색은 공식 치이카와 스티커 그림에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#2b1f20",
+    "header": "#3a2a2b",
+    "list": "#241a1b",
+    "listSelected": "#4a3335",
+    "listHover": "#302324",
+    "listFill": "#3d2c2e",
+    "text": "#fbf6f3",
+    "textMuted": "#d9c4c4",
+    "rule": "#fcc4cc",
+    "bubbleSelf": "#6b3a45",
+    "bubbleSelfText": "#ffffff",
+    "bubbleOther": "#3d2c2e",
+    "bubbleOtherText": "#fbf6f3",
+    "link": "#fcc4cc",
+    "input": "#3d2c2e",
+    "ground": "#1d1415",
+    "accent": "#fcc4cc",
+    "accentText": "#402020"
+  }
+}

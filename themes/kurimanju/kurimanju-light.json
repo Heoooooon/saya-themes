@@ -1,0 +1,25 @@
+{
+  "name": "밤만쥬 밤과자 🌰",
+  "mode": "light",
+  "description": "팬 메이드·비공식·비영리 테마. 색은 공식 밤만쥬 스티커 그림에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#fbf0dc",
+    "header": "#f2dcb8",
+    "list": "#fffaf0",
+    "listSelected": "#f5e3c4",
+    "listHover": "#fdf5e7",
+    "listFill": "#f6e8d0",
+    "text": "#3d2618",
+    "textMuted": "#6b4a35",
+    "rule": "#a06850",
+    "bubbleSelf": "#efd2ab",
+    "bubbleSelfText": "#3d2618",
+    "bubbleOther": "#fffaf0",
+    "bubbleOtherText": "#3d2618",
+    "link": "#8a3f2a",
+    "input": "#fffaf0",
+    "ground": "#f3e4c9",
+    "accent": "#8f5a44",
+    "accentText": "#ffffff"
+  }
+}

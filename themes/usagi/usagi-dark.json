@@ -1,0 +1,25 @@
+{
+  "name": "우사기 밤산책 🐰",
+  "mode": "dark",
+  "description": "팬 메이드·비공식·비영리 테마. 색은 공식 스티커 그림에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#2b2118",
+    "header": "#3a2b20",
+    "list": "#231a13",
+    "listSelected": "#4d3a2c",
+    "listHover": "#30251c",
+    "listFill": "#3a2d22",
+    "text": "#fcefca",
+    "textMuted": "#dcc9a6",
+    "rule": "#bd9d6f",
+    "bubbleSelf": "#6e3f49",
+    "bubbleSelfText": "#fcefca",
+    "bubbleOther": "#40312a",
+    "bubbleOtherText": "#fcefca",
+    "link": "#ffc2ca",
+    "input": "#40312a",
+    "ground": "#1f1710",
+    "accent": "#ffc2ca",
+    "accentText": "#2b2118"
+  }
+}

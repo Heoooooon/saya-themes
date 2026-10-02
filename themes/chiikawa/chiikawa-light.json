@@ -1,0 +1,25 @@
+{
+  "name": "치이카와 딸기우유 🐹",
+  "mode": "light",
+  "description": "팬 메이드·비공식·비영리 테마. 색은 공식 치이카와 스티커 그림에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#fdf1f2",
+    "header": "#f9dde1",
+    "list": "#ffffff",
+    "listSelected": "#fbe3e6",
+    "listHover": "#fef6f7",
+    "listFill": "#fbecee",
+    "text": "#402020",
+    "textMuted": "#6e4f4f",
+    "rule": "#f2a7b2",
+    "bubbleSelf": "#fcc4cc",
+    "bubbleSelfText": "#402020",
+    "bubbleOther": "#ffffff",
+    "bubbleOtherText": "#402020",
+    "link": "#7f2a3d",
+    "input": "#ffffff",
+    "ground": "#f6e3e5",
+    "accent": "#fcc4cc",
+    "accentText": "#402020"
+  }
+}

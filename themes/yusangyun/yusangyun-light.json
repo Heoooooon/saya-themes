@@ -1,0 +1,25 @@
+{
+  "name": "유산균 무대 🥛",
+  "mode": "light",
+  "description": "팬 메이드·비공식·비영리 테마. 색과 그림은 공식 아니메 『ちいかわ』 むちゃうマン 회(유산균 노래 무대)에서 가져왔습니다.",
+  "tokens": {
+    "wall": "#fbf2cf",
+    "header": "#f6e5a8",
+    "list": "#fffdf3",
+    "listSelected": "#e3f3f7",
+    "listHover": "#fdf8e4",
+    "listFill": "#f6edcf",
+    "text": "#402020",
+    "textMuted": "#63473f",
+    "rule": "#80c0d8",
+    "bubbleSelf": "#c0e8f0",
+    "bubbleSelfText": "#402020",
+    "bubbleOther": "#ffffff",
+    "bubbleOtherText": "#402020",
+    "link": "#1d5a78",
+    "input": "#ffffff",
+    "ground": "#f2e5b6",
+    "accent": "#80c0d8",
+    "accentText": "#402020"
+  }
+}

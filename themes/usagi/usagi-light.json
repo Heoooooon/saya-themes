@@ -1,0 +1,25 @@
+{
+  "name": "우사기 크림 🐰",
+  "mode": "light",
+  "description": "팬 메이드·비공식·비영리 테마. 색은 공식 스티커 그림에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#fcefca",
+    "header": "#ffd1d7",
+    "list": "#fffaee",
+    "listSelected": "#ffd1d7",
+    "listHover": "#fff1f3",
+    "listFill": "#f8ecd0",
+    "text": "#2b2118",
+    "textMuted": "#5c4633",
+    "rule": "#bd9d6f",
+    "bubbleSelf": "#ffc2ca",
+    "bubbleSelfText": "#2b2118",
+    "bubbleOther": "#ffffff",
+    "bubbleOtherText": "#2b2118",
+    "link": "#8c2f4a",
+    "input": "#ffffff",
+    "ground": "#f8e6bd",
+    "accent": "#ffc2ca",
+    "accentText": "#2b2118"
+  }
+}

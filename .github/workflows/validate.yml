@@ -1,0 +1,20 @@
+name: Validate themes
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.4.2
+      - run: bun install --frozen-lockfile
+      - name: Typecheck the validator and the copied saya rules
+        run: bunx tsc --noEmit
+      - name: Check every theme with saya's rules and gallery.json against the files
+        run: bun scripts/validate.ts

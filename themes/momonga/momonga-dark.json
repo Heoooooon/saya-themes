@@ -1,0 +1,25 @@
+{
+  "name": "모몽가 한밤 🐿️",
+  "mode": "dark",
+  "description": "팬 메이드·비공식·비영리 테마. 색은 공식 모몽가 스티커 그림에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#182633",
+    "header": "#20323f",
+    "list": "#13202a",
+    "listSelected": "#2b4556",
+    "listHover": "#1b2b37",
+    "listFill": "#24394a",
+    "text": "#f4fafd",
+    "textMuted": "#b8d3e0",
+    "rule": "#b0e0f0",
+    "bubbleSelf": "#2d566b",
+    "bubbleSelfText": "#ffffff",
+    "bubbleOther": "#263b4a",
+    "bubbleOtherText": "#f4fafd",
+    "link": "#c8e8f8",
+    "input": "#263b4a",
+    "ground": "#0f1820",
+    "accent": "#c8e8f8",
+    "accentText": "#233441"
+  }
+}

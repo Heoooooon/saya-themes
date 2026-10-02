@@ -1,0 +1,25 @@
+{
+  "name": "갑옷 씨(관리인) 은빛 🛡️",
+  "mode": "light",
+  "description": "팬 메이드·비공식·비영리 테마. 색은 공식 갑옷 씨 스티커 그림에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#efedea",
+    "header": "#dcd7d1",
+    "list": "#fbfaf8",
+    "listSelected": "#e3ded8",
+    "listHover": "#f5f3f0",
+    "listFill": "#e9e5e0",
+    "text": "#2b2220",
+    "textMuted": "#5c524d",
+    "rule": "#a8a098",
+    "bubbleSelf": "#d6d0c8",
+    "bubbleSelfText": "#2b2220",
+    "bubbleOther": "#fbfaf8",
+    "bubbleOtherText": "#2b2220",
+    "link": "#7a3b3b",
+    "input": "#fbfaf8",
+    "ground": "#e4e0da",
+    "accent": "#f3bcc6",
+    "accentText": "#2b2220"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "하치와레 하늘 🐱",
+  "mode": "light",
+  "description": "팬 메이드·비공식·비영리 테마. 색은 공식 하치와레 스티커 그림에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#e8f1f6",
+    "header": "#cfe1ea",
+    "list": "#ffffff",
+    "listSelected": "#d6e6ee",
+    "listHover": "#f1f7fa",
+    "listFill": "#e9f1f5",
+    "text": "#1b2b36",
+    "textMuted": "#45596a",
+    "rule": "#77a6be",
+    "bubbleSelf": "#bcd6e3",
+    "bubbleSelfText": "#1b2b36",
+    "bubbleOther": "#ffffff",
+    "bubbleOtherText": "#1b2b36",
+    "link": "#24506a",
+    "input": "#ffffff",
+    "ground": "#dce9f0",
+    "accent": "#ffc2ca",
+    "accentText": "#1b2b36"
+  }
+}

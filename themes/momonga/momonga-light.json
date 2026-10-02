@@ -1,0 +1,25 @@
+{
+  "name": "모몽가 솜사탕 🐿️",
+  "mode": "light",
+  "description": "팬 메이드·비공식·비영리 테마. 색은 공식 모몽가 스티커 그림에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#eef8fc",
+    "header": "#d2ecf8",
+    "list": "#ffffff",
+    "listSelected": "#dcf1fa",
+    "listHover": "#f4fbfd",
+    "listFill": "#e6f4fa",
+    "text": "#233441",
+    "textMuted": "#3f5362",
+    "rule": "#9fd2ea",
+    "bubbleSelf": "#c8e8f8",
+    "bubbleSelfText": "#233441",
+    "bubbleOther": "#ffffff",
+    "bubbleOtherText": "#233441",
+    "link": "#1f5f86",
+    "input": "#ffffff",
+    "ground": "#e1f1f8",
+    "accent": "#f8c0c8",
+    "accentText": "#233441"
+  }
+}
