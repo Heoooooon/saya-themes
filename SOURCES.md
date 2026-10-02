@@ -157,7 +157,7 @@ All pictures belong to their rights holders. 「ちいかわ」 © nagano / chii
 
 - 팬 메이드·비공식·비영리 테마입니다. 원작자나 공식 측과 관계가 없습니다.
 - 「ちいかわ」 © nagano / chiikawa committee
-- むちゃうマン은 단독 LINE 스티커가 없습니다. 그래서 색과 그림 테마(`-img`)의 그림(로딩 그림 포함)은 아래 공식 방송분 프레임에서 가져왔습니다.
-  - TV 아니메 『ちいかわ』 第138話「むちゃうマン②」(공식 YouTube 1주 한정 공개분 https://www.youtube.com/watch?v=XQgWOBWmsuk, 지금은 비공개라 archive.org 미러 https://archive.org/details/chiikawa-anime-ep138 에서 받음)
-  - 색 확인: 공식 굿즈샵 ちいかわマーケット むちゃうマン 상품 그림 (https://chiikawamarket.jp)
+- むちゃうマン은 단독 LINE 스티커가 없습니다. 그림 테마(`-img`)의 그림(벽지·목록 무늬·배지·마스코트·로딩 그림 모두)은 공식 굿즈샵의 인형 전신 사진 한 장에서 오려 만들었습니다(v2, 2026-10-02).
+  - ちいかわマーケット 「ちいかわパーク ふわふわくったりぬいぐるみ（むちゃうマン）」 상품 사진 (https://chiikawamarket.jp/products/4571609351603)
+- 색은 TV 아니메 『ちいかわ』 第138話「むちゃうマン②」의 무대 색에서 뽑았습니다(공식 YouTube 1주 한정 공개분 https://www.youtube.com/watch?v=XQgWOBWmsuk, 지금은 비공개라 archive.org 미러 https://archive.org/details/chiikawa-anime-ep138 에서 확인).
 - 그림 테마는 공식 그림을 담고 있습니다. 비영리로만 쓰고, 권리자가 요청하면 바로 지웁니다.
