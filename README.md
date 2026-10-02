@@ -24,6 +24,8 @@ Every character has four files under `themes/<id>/`: light and dark, each with c
 
 Previews use made-up rooms and messages.
 
+Seasonal gallery entries may have optional `from` and `until` dates in `yyyy-MM-dd` format. Both dates are inclusive, using Korea Standard Time (KST). A missing bound is open-ended; without either field, the entry is available all year. Clients that support seasonal filtering hide entries outside the period or with malformed dates. CI rejects invalid calendar dates and reversed periods.
+
 ## Pick a theme in saya
 
 Open the theme button (the half-circle icon at the top of the room list) and scroll to **Theme gallery** (테마 모음). Pressing a card downloads that theme, saves it next to your own themes and applies it. Pressing it again replaces the saved copy. If the download fails, nothing changes and the sheet tells you to try again.

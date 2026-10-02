@@ -37,7 +37,13 @@ type Card = {
   colors: string[];
   path: string;
 };
-type Character = { id: string; name: string; themes: Card[] };
+type Character = {
+  id: string;
+  name: string;
+  themes: Card[];
+  from?: unknown;
+  until?: unknown;
+};
 
 let gallery: Character[] = [];
 try {
@@ -59,6 +65,33 @@ for (const character of gallery) {
     fail(`${where}: name is missing`);
   if (ids.has(character.id)) fail(`${where}: duplicate id`);
   ids.add(character.id);
+  // KST calendar dates, inclusive at both ends; reject impossible dates too.
+  for (const field of ["from", "until"] as const) {
+    if (!Object.hasOwn(character, field)) continue;
+    const value = character[field];
+    if (
+      typeof value !== "string" ||
+      !/^\d{4}-\d{2}-\d{2}$/.test(value) ||
+      value.startsWith("0000-")
+    ) {
+      fail(`${where}: ${field} must be a valid yyyy-MM-dd calendar date`);
+      continue;
+    }
+    const date = new Date(`${value}T00:00:00+09:00`);
+    if (
+      !Number.isFinite(date.getTime()) ||
+      new Date(date.getTime() + 9 * 60 * 60 * 1000)
+        .toISOString()
+        .slice(0, 10) !== value
+    )
+      fail(`${where}: ${field} must be a valid yyyy-MM-dd calendar date`);
+  }
+  if (
+    typeof character.from === "string" &&
+    typeof character.until === "string" &&
+    character.from > character.until
+  )
+    fail(`${where}: from must not be later than until`);
   if (!Array.isArray(character?.themes) || character.themes.length === 0) {
     fail(`${where}: themes is empty`);
     continue;
