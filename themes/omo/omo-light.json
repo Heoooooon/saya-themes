@@ -1,0 +1,25 @@
+{
+  "name": "오모 네온 낮 🐈‍⬛",
+  "mode": "light",
+  "description": "OmO 공식 마스코트 테마. 그림은 omo-pet의 OmO 스프라이트, 색은 검은 후드와 네온 라임 눈에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#f4f7e8",
+    "header": "#e6eecb",
+    "list": "#fbfdf3",
+    "listSelected": "#e3efb5",
+    "listHover": "#f6f9ea",
+    "listFill": "#eef3d6",
+    "text": "#141414",
+    "textMuted": "#4a4f3a",
+    "rule": "#b5d40f",
+    "bubbleSelf": "#d9f06a",
+    "bubbleSelfText": "#141414",
+    "bubbleOther": "#ffffff",
+    "bubbleOtherText": "#141414",
+    "link": "#3f5a00",
+    "input": "#fbfdf3",
+    "ground": "#e9efd6",
+    "accent": "#c8e810",
+    "accentText": "#141414"
+  }
+}

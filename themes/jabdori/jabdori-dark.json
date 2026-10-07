@@ -1,0 +1,25 @@
+{
+  "name": "잡도리 로켓 밤 🐶",
+  "mode": "dark",
+  "description": "잡도리 테마(원작자 허락, 공식 원본 그림). 그림은 omo-pet의 잡도리 스프라이트, 색은 흰 털·회색 귀·분홍 볼에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#24201f",
+    "header": "#302b2a",
+    "list": "#1d1a19",
+    "listSelected": "#4a3836",
+    "listHover": "#2a2625",
+    "listFill": "#383231",
+    "text": "#f8f8f0",
+    "textMuted": "#cfc7c4",
+    "rule": "#f8a098",
+    "bubbleSelf": "#5e3a36",
+    "bubbleSelfText": "#ffffff",
+    "bubbleOther": "#383231",
+    "bubbleOtherText": "#f8f8f0",
+    "link": "#f8b8b0",
+    "input": "#383231",
+    "ground": "#171413",
+    "accent": "#f8a098",
+    "accentText": "#2e2828"
+  }
+}

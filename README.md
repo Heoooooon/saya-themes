@@ -23,6 +23,9 @@ Every character has four files under `themes/<id>/`: light and dark, each with c
 | Muchauman (the yogurt hero) | [`themes/yusangyun`](themes/yusangyun) | [preview](previews/yusangyun-light.png) | [preview](previews/yusangyun-dark.png) |
 | Shisa (the ramen-shop helper) | [`themes/shisa`](themes/shisa) | [preview](previews/shisa-light.png) | [preview](previews/shisa-dark.png) |
 | Halloween (October 1–November 7, 2026, KST) | [`themes/halloween`](themes/halloween) | [preview](previews/halloween-light.png) | [preview](previews/halloween-dark.png) |
+| OmO (the official OmO mascot) | [`themes/omo`](themes/omo) | [preview](previews/omo-light.png) | [preview](previews/omo-dark.png) |
+| Jabdori (used with the creator's permission) | [`themes/jabdori`](themes/jabdori) | [preview](previews/jabdori-light.png) | [preview](previews/jabdori-dark.png) |
+| Croissant Mouse | [`themes/croissant-mouse`](themes/croissant-mouse) | [preview](previews/croissant-mouse-light.png) | [preview](previews/croissant-mouse-dark.png) |
 
 Previews use made-up rooms and messages.
 

@@ -1,0 +1,25 @@
+{
+  "name": "크로아상쥐 오븐 🥐",
+  "mode": "dark",
+  "description": "크로아상쥐 테마. 그림은 omo-pet의 크로아상쥐 스프라이트, 색은 흰 털·분홍 귀·구운 크로아상에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#2a2019",
+    "header": "#382a20",
+    "list": "#221a14",
+    "listSelected": "#4d3626",
+    "listHover": "#2f241c",
+    "listFill": "#3d2e23",
+    "text": "#fdf6e9",
+    "textMuted": "#dbc7b2",
+    "rule": "#e8a050",
+    "bubbleSelf": "#6b4128",
+    "bubbleSelfText": "#ffffff",
+    "bubbleOther": "#3d2e23",
+    "bubbleOtherText": "#fdf6e9",
+    "link": "#f8c0b0",
+    "input": "#3d2e23",
+    "ground": "#1a130e",
+    "accent": "#e8a050",
+    "accentText": "#3b2a1e"
+  }
+}
