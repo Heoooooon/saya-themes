@@ -23,6 +23,9 @@
 | 유산균(むちゃうマン) | [`themes/yusangyun`](themes/yusangyun) | [미리보기](previews/yusangyun-light.png) | [미리보기](previews/yusangyun-dark.png) |
 | 시사(シーサー, 라멘집 알바) | [`themes/shisa`](themes/shisa) | [미리보기](previews/shisa-light.png) | [미리보기](previews/shisa-dark.png) |
 | 할로윈(2026-10-01~11-07, KST) | [`themes/halloween`](themes/halloween) | [미리보기](previews/halloween-light.png) | [미리보기](previews/halloween-dark.png) |
+| 오모(OmO 공식 마스코트) | [`themes/omo`](themes/omo) | [미리보기](previews/omo-light.png) | [미리보기](previews/omo-dark.png) |
+| 잡도리(원작자 허락) | [`themes/jabdori`](themes/jabdori) | [미리보기](previews/jabdori-light.png) | [미리보기](previews/jabdori-dark.png) |
+| 크로아상쥐 | [`themes/croissant-mouse`](themes/croissant-mouse) | [미리보기](previews/croissant-mouse-light.png) | [미리보기](previews/croissant-mouse-dark.png) |
 
 미리보기의 방과 메시지는 지어낸 것입니다.
 

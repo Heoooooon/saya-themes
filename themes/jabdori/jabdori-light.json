@@ -1,0 +1,25 @@
+{
+  "name": "잡도리 산책 🐶",
+  "mode": "light",
+  "description": "잡도리 테마(원작자 허락, 공식 원본 그림). 그림은 omo-pet의 잡도리 스프라이트, 색은 흰 털·회색 귀·분홍 볼에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#f7f5f0",
+    "header": "#ebe6df",
+    "list": "#fffdf9",
+    "listSelected": "#f3e2df",
+    "listHover": "#faf7f2",
+    "listFill": "#f0ebe4",
+    "text": "#2e2828",
+    "textMuted": "#5f5656",
+    "rule": "#f8a098",
+    "bubbleSelf": "#fbd6d0",
+    "bubbleSelfText": "#2e2828",
+    "bubbleOther": "#fffdf9",
+    "bubbleOtherText": "#2e2828",
+    "link": "#8f2a22",
+    "input": "#fffdf9",
+    "ground": "#ece7e0",
+    "accent": "#605858",
+    "accentText": "#ffffff"
+  }
+}

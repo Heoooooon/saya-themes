@@ -1,0 +1,25 @@
+{
+  "name": "오모 한밤 후드 🐈‍⬛",
+  "mode": "dark",
+  "description": "OmO 공식 마스코트 테마. 그림은 omo-pet의 OmO 스프라이트, 색은 검은 후드와 네온 라임 눈에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#121212",
+    "header": "#1b1c18",
+    "list": "#0d0d0d",
+    "listSelected": "#2a3010",
+    "listHover": "#181915",
+    "listFill": "#20231a",
+    "text": "#f1f5e4",
+    "textMuted": "#b8bfa3",
+    "rule": "#c8e810",
+    "bubbleSelf": "#3a4510",
+    "bubbleSelfText": "#ffffff",
+    "bubbleOther": "#20231a",
+    "bubbleOtherText": "#f1f5e4",
+    "link": "#d0f010",
+    "input": "#20231a",
+    "ground": "#080808",
+    "accent": "#c8e810",
+    "accentText": "#101010"
+  }
+}

@@ -23,6 +23,9 @@
 | 乳酸菌侠（Muchauman） | [`themes/yusangyun`](themes/yusangyun) | [预览](previews/yusangyun-light.png) | [预览](previews/yusangyun-dark.png) |
 | 风狮（Shisa，拉面店店员） | [`themes/shisa`](themes/shisa) | [预览](previews/shisa-light.png) | [预览](previews/shisa-dark.png) |
 | 万圣节（2026年10月1日至11月7日，KST） | [`themes/halloween`](themes/halloween) | [预览](previews/halloween-light.png) | [预览](previews/halloween-dark.png) |
+| OmO（OmO 官方吉祥物） | [`themes/omo`](themes/omo) | [预览](previews/omo-light.png) | [预览](previews/omo-dark.png) |
+| Jabdori（已获作者许可） | [`themes/jabdori`](themes/jabdori) | [预览](previews/jabdori-light.png) | [预览](previews/jabdori-dark.png) |
+| 可颂鼠 | [`themes/croissant-mouse`](themes/croissant-mouse) | [预览](previews/croissant-mouse-light.png) | [预览](previews/croissant-mouse-dark.png) |
 
 预览中的房间和消息都是虚构的。
 

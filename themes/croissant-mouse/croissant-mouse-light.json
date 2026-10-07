@@ -1,0 +1,25 @@
+{
+  "name": "크로아상쥐 버터 🥐",
+  "mode": "light",
+  "description": "크로아상쥐 테마. 그림은 omo-pet의 크로아상쥐 스프라이트, 색은 흰 털·분홍 귀·구운 크로아상에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#fdf6e9",
+    "header": "#f6e6c8",
+    "list": "#fffcf5",
+    "listSelected": "#f9e0cf",
+    "listHover": "#fef8ee",
+    "listFill": "#f6ead6",
+    "text": "#3b2a1e",
+    "textMuted": "#6a5040",
+    "rule": "#e8a050",
+    "bubbleSelf": "#fbd9c8",
+    "bubbleSelfText": "#3b2a1e",
+    "bubbleOther": "#fffcf5",
+    "bubbleOtherText": "#3b2a1e",
+    "link": "#8a4a14",
+    "input": "#fffcf5",
+    "ground": "#f3e6cf",
+    "accent": "#e8a050",
+    "accentText": "#3b2a1e"
+  }
+}
