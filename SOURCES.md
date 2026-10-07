@@ -235,7 +235,7 @@ All pictures belong to their rights holders. 「ちいかわ」 © nagano / chii
 | [croissant-mouse-light-img.json](themes/croissant-mouse/croissant-mouse-light-img.json) | 크로아상쥐 버터 그림 | light | 벽지·목록·마스코트·배지·로딩 |
 | [croissant-mouse-dark-img.json](themes/croissant-mouse/croissant-mouse-dark-img.json) | 크로아상쥐 오븐 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
 
-- 그림은 omo-pet용으로 만든 크로아상쥐 팩(omo-pet [PR #12](https://github.com/Heoooooon/omo-pet/pull/12) 레시피로 만든 로컬 팬 팩)의 스프라이트에서 가져왔고 새로 그리지 않았습니다.
+- 그림은 omo-pet용으로 만든 크로아상쥐 팩(omo-pet [PR #12](https://github.com/Heoooooon/omo-pet/pull/12) 레시피로 만든 로컬 팬 팩)의 스프라이트에서 가져왔고 새로 그리지 않았습니다. 2026-10-07부터 크로아상을 늘 안고 다니는 2판(omo-pet 머지 `0417705`) 그림을 씁니다. 로켓(`jet`·`rocket`)은 원래 크로아상 로켓 그대로입니다.
 - wall: `idle`·`jet`(크로아상 로켓), list: `fall-land`, mascot·badge: `idle`, loader: `rocket` 크로아상 로켓 반복(8fps, 3초 루프, 전 프레임 같은 bbox·배율). saya는 헤더 배지를 누르면 이 로더를 2.4초 재생하므로 클릭해도 로켓이 나옵니다.
 - 색: 흰 털 `#f8f0f0`·분홍 귀 `#f8c0b0`·구운 크로아상 갈색(불투명 픽셀 측정 후 조정).
-- 크기: 팩 자체가 모든 동작에서 귀 크기를 맞춘 2배 셀이라, 모든 동작에 같은 배율(0.5)을 곱했습니다.
+- 크기: 팩 자체가 모든 동작에서 귀 크기를 맞춘 2배 셀이라, 모든 동작에 같은 배율(0.5)을 곱했습니다. 2판 교체 때는 1판 테마에서 쓴 배율을 그대로 쓰고, 동작마다 분홍 귀 면적 비율로 보정해 테마 안 머리 크기를 1판과 맞췄습니다(차이 4% 이내).
