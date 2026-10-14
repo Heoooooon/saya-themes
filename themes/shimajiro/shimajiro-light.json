@@ -1,0 +1,25 @@
+{
+  "name": "시마지로 식당 🍜",
+  "mode": "light",
+  "description": "팬 메이드·비공식·비영리 테마. 그림은 공식 LINE 스티커(ちいかわ 시리즈)에서 잘라 썼고, 색은 그 그림(크림 몸·갈색 수염·검은 앞치마)에서 뽑았습니다. ©nagano / chiikawa committee",
+  "tokens": {
+    "wall": "#f3ead6",
+    "header": "#e6d9bd",
+    "list": "#fbf6ea",
+    "listSelected": "#e8dcc0",
+    "listHover": "#f3ecdc",
+    "listFill": "#ebe2cc",
+    "text": "#2a2018",
+    "textMuted": "#4a3c30",
+    "rule": "#8a7560",
+    "bubbleSelf": "#efe0b8",
+    "bubbleSelfText": "#2a2018",
+    "bubbleOther": "#ffffff",
+    "bubbleOtherText": "#2a2018",
+    "link": "#2f4860",
+    "input": "#ffffff",
+    "ground": "#e8dec6",
+    "accent": "#584030",
+    "accentText": "#ffffff"
+  }
+}

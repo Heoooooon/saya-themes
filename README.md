@@ -23,11 +23,17 @@ Every character has four files under `themes/<id>/`: light and dark, each with c
 | Muchauman (the yogurt hero) | [`themes/yusangyun`](themes/yusangyun) | [preview](previews/yusangyun-light.png) | [preview](previews/yusangyun-dark.png) |
 | Shisa (the ramen-shop helper) | [`themes/shisa`](themes/shisa) | [preview](previews/shisa-light.png) | [preview](previews/shisa-dark.png) |
 | Halloween (October 1–November 7, 2026, KST) | [`themes/halloween`](themes/halloween) | [preview](previews/halloween-light.png) | [preview](previews/halloween-dark.png) |
+| Christmas (November 20–December 26, 2026, KST) | [`themes/christmas`](themes/christmas) | [preview](previews/christmas-light.png) | [preview](previews/christmas-dark.png) |
+| Winter (December 1, 2026–February 28, 2027, KST) | [`themes/winter`](themes/winter) | [preview](previews/winter-light.png) | [preview](previews/winter-dark.png) |
 | OmO (the official OmO mascot) | [`themes/omo`](themes/omo) | [preview](previews/omo-light.png) | [preview](previews/omo-dark.png) |
 | Jabdori (used with the creator's permission) | [`themes/jabdori`](themes/jabdori) | [preview](previews/jabdori-light.png) | [preview](previews/jabdori-dark.png) |
 | Croissant Mouse | [`themes/croissant-mouse`](themes/croissant-mouse) | [preview](previews/croissant-mouse-light.png) | [preview](previews/croissant-mouse-dark.png) |
 | Nagano Bear (Damgom) | [`themes/nagano-bear`](themes/nagano-bear) | [preview](previews/nagano-bear-light.png) | [preview](previews/nagano-bear-dark.png) |
 | Rakko (sea otter) | [`themes/rakko`](themes/rakko) | [preview](previews/rakko-light.png) | [preview](previews/rakko-dark.png) |
+| Omonyang (the OmO cat face from the Omonyang profile) | [`themes/omonyang`](themes/omonyang) | [preview](previews/omonyang-light.png) | [preview](previews/omonyang-dark.png) |
+| Siren (from the Chiikawa movie) | [`themes/siren`](themes/siren) | [preview](previews/siren-light.png) | [preview](previews/siren-dark.png) |
+| Furuhonya (the used-bookstore owner) | [`themes/furuhonya`](themes/furuhonya) | [preview](previews/furuhonya-light.png) | [preview](previews/furuhonya-dark.png) |
+| Shimajiro (the island diner owner, from the movie) | [`themes/shimajiro`](themes/shimajiro) | [preview](previews/shimajiro-light.png) | [preview](previews/shimajiro-dark.png) |
 
 Previews use made-up rooms and messages.
 

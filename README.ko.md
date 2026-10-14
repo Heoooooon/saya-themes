@@ -23,11 +23,17 @@
 | 유산균(むちゃうマン) | [`themes/yusangyun`](themes/yusangyun) | [미리보기](previews/yusangyun-light.png) | [미리보기](previews/yusangyun-dark.png) |
 | 시사(シーサー, 라멘집 알바) | [`themes/shisa`](themes/shisa) | [미리보기](previews/shisa-light.png) | [미리보기](previews/shisa-dark.png) |
 | 할로윈(2026-10-01~11-07, KST) | [`themes/halloween`](themes/halloween) | [미리보기](previews/halloween-light.png) | [미리보기](previews/halloween-dark.png) |
+| 크리스마스(2026-11-20~12-26, KST) | [`themes/christmas`](themes/christmas) | [미리보기](previews/christmas-light.png) | [미리보기](previews/christmas-dark.png) |
+| 겨울(2026-12-01~2027-02-28, KST) | [`themes/winter`](themes/winter) | [미리보기](previews/winter-light.png) | [미리보기](previews/winter-dark.png) |
 | 오모(OmO 공식 마스코트) | [`themes/omo`](themes/omo) | [미리보기](previews/omo-light.png) | [미리보기](previews/omo-dark.png) |
 | 잡도리(원작자 허락) | [`themes/jabdori`](themes/jabdori) | [미리보기](previews/jabdori-light.png) | [미리보기](previews/jabdori-dark.png) |
 | 크로아상쥐 | [`themes/croissant-mouse`](themes/croissant-mouse) | [미리보기](previews/croissant-mouse-light.png) | [미리보기](previews/croissant-mouse-dark.png) |
 | 농담곰(담곰) | [`themes/nagano-bear`](themes/nagano-bear) | [미리보기](previews/nagano-bear-light.png) | [미리보기](previews/nagano-bear-dark.png) |
 | 라코(해달) | [`themes/rakko`](themes/rakko) | [미리보기](previews/rakko-light.png) | [미리보기](previews/rakko-dark.png) |
+| 오모냥(오모냥 프로필 OmO 고양이 얼굴) | [`themes/omonyang`](themes/omonyang) | [미리보기](previews/omonyang-light.png) | [미리보기](previews/omonyang-dark.png) |
+| 세이렌(영화 치이카와) | [`themes/siren`](themes/siren) | [미리보기](previews/siren-light.png) | [미리보기](previews/siren-dark.png) |
+| 후루혼야(古本屋) | [`themes/furuhonya`](themes/furuhonya) | [미리보기](previews/furuhonya-light.png) | [미리보기](previews/furuhonya-dark.png) |
+| 시마지로(島二郎, 영화) | [`themes/shimajiro`](themes/shimajiro) | [미리보기](previews/shimajiro-light.png) | [미리보기](previews/shimajiro-dark.png) |
 
 미리보기의 방과 메시지는 지어낸 것입니다.
 

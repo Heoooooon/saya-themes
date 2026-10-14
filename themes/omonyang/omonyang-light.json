@@ -1,0 +1,25 @@
+{
+  "name": "오모냥 우유 🐾",
+  "mode": "light",
+  "description": "팬 메이드·비영리 테마. 그림은 오모냥 프로필의 'OmO' 고양이 얼굴(검은 후드 고양이 + 흰 선 OmO)을 벡터 그대로 렌더한 것입니다. 기울이기·깡충·눈 깜빡임만 더했습니다.",
+  "tokens": {
+    "wall": "#eef2f1",
+    "header": "#dde6e4",
+    "list": "#f8faf9",
+    "listSelected": "#d5e3e0",
+    "listHover": "#f0f4f3",
+    "listFill": "#e3eae8",
+    "text": "#041617",
+    "textMuted": "#2f4544",
+    "rule": "#6f8a88",
+    "bubbleSelf": "#cfe3e1",
+    "bubbleSelfText": "#041617",
+    "bubbleOther": "#ffffff",
+    "bubbleOtherText": "#041617",
+    "link": "#0d4d4a",
+    "input": "#ffffff",
+    "ground": "#dfe7e5",
+    "accent": "#0f3d3b",
+    "accentText": "#ffffff"
+  }
+}

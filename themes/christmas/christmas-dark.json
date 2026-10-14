@@ -1,0 +1,25 @@
+{
+  "name": "성탄 밤 🎄",
+  "mode": "dark",
+  "description": "팬 메이드·비공식·비영리 크리스마스 테마. 그림은 공식 LINE 스티커 ちいかわ(冬かな)·ちいかわ × LINEギフト에서 글자를 지우고 잘라 썼습니다. © nagano / chiikawa committee",
+  "tokens": {
+    "wall": "#142c24",
+    "header": "#1d3a30",
+    "list": "#10241d",
+    "listSelected": "#2a4d3e",
+    "listHover": "#17302a",
+    "listFill": "#1f3b32",
+    "text": "#f8efe2",
+    "textMuted": "#cfd9cb",
+    "rule": "#c8323c",
+    "bubbleSelf": "#7a2a30",
+    "bubbleSelfText": "#ffffff",
+    "bubbleOther": "#1d3a30",
+    "bubbleOtherText": "#f8efe2",
+    "link": "#f3c56a",
+    "input": "#1d3a30",
+    "ground": "#0b1b16",
+    "accent": "#c8323c",
+    "accentText": "#ffffff"
+  }
+}

@@ -12,7 +12,6 @@ All pictures belong to their rights holders. 「ちいかわ」 © nagano / chii
 | [usagi-light-img.json](themes/usagi/usagi-light-img.json) | 우사기 크림 그림 🐰 | light | 벽지·목록 무늬·마스코트·배지·로딩 |
 | [usagi-dark-img.json](themes/usagi/usagi-dark-img.json) | 우사기 밤산책 그림 🐰 | dark | 벽지·목록 무늬·마스코트·배지·로딩 |
 
-
 ### 저작권과 출처
 
 - 팬 메이드·비공식·비영리 테마입니다. 원작자나 공식 측과 관계가 없습니다.
@@ -279,4 +278,118 @@ All pictures belong to their rights holders. 「ちいかわ」 © nagano / chii
   - LINE STORE 공식 스티커 「ちいかわ(モモンガ多)」(작가 ナガノ) 미리보기 그림 (https://store.line.me/stickershop/product/32411274/ja) — 스티커 806221118(배지)
   - LINE STORE 공식 스티커 「『映画ちいかわ 人魚の島のひみつ』第１弾」(QTORY inc.) 미리보기 그림 (https://store.line.me/stickershop/product/37824/ja) — 스티커 894148995(벽지 두 번째 그림)
   - 로딩 그림: 라코의 공식 움직이는 스티커 가운데 글귀 없는 것이 없어, 위 서기 그림을 깡충 뛰게 만든 12프레임 동작입니다(공식 애니메이션 아님).
+- 그림 테마는 공식 그림을 담고 있습니다. 비영리로만 쓰고, 권리자가 요청하면 바로 지웁니다.
+
+## 오모냥 (`themes/omonyang/`)
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [omonyang-light.json](themes/omonyang/omonyang-light.json) | 오모냥 우유 | light | 없음(색만) |
+| [omonyang-dark.json](themes/omonyang/omonyang-dark.json) | 오모냥 먹물 | dark | 없음(색만) |
+| [omonyang-light-img.json](themes/omonyang/omonyang-light-img.json) | 오모냥 우유 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [omonyang-dark-img.json](themes/omonyang/omonyang-dark-img.json) | 오모냥 먹물 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+- 오모냥(CMORE 작업 도우미) 프로필 그림인 'OmO' 고양이 얼굴(검은 후드 고양이 + 흰 선 `OmO`)입니다. 기존 오모(OmO, `themes/omo/`)의 omo-pet 스프라이트와 다른 그림입니다.
+- 그림은 프로필 아바타를 벡터로 옮긴 경로(work-islands 대시보드 `app.js`의 `CAT`)를 그대로 렌더한 것이고 새로 그리지 않았습니다. 벽지·목록의 기울기, 로딩의 깡충·눈 깜빡임(눈 타원 세로 축소)만 더했습니다.
+- 색: 몸 `#041617`(프로필 그림 불투명 픽셀 측정)·선 흰색. 다크에서는 몸 윤곽이 벽에 묻히지 않게 옅은 테두리 `#cfe3e1`를 둘렀습니다.
+
+## 크리스마스 (`themes/christmas/`)
+
+기간: 2026-11-20~2026-12-26(KST, `gallery.json` `from`·`until`).
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [christmas-light.json](themes/christmas/christmas-light.json) | 성탄 트리 | light | 없음(색만) |
+| [christmas-dark.json](themes/christmas/christmas-dark.json) | 성탄 밤 | dark | 없음(색만) |
+| [christmas-light-img.json](themes/christmas/christmas-light-img.json) | 성탄 트리 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [christmas-dark-img.json](themes/christmas/christmas-dark-img.json) | 성탄 밤 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+### 저작권과 출처
+
+- 팬 메이드·비공식·비영리 테마입니다. 원작자나 공식 측과 관계가 없습니다.
+- 「ちいかわ」 © nagano / chiikawa committee
+- 그림은 아래 공식 LINE 스티커 그림(평면 일러스트)에서 글귀를 지우고 잘라 썼습니다. 굿즈 사진과 새로 그린 그림은 없습니다.
+  - LINE STORE 공식 스티커 「ちいかわ × LINEギフト」(작가 ナガノ) 미리보기 그림 (https://store.line.me/stickershop/product/33147/ja) — 스티커 732342966(서기·마스코트·로딩: 산타 옷 우사기, はーい 글귀 제거), 732342976(배지: 선물 상자 우사기, パパーン 글귀 제거)
+  - LINE STORE 공식 스티커 「ちいかわ(冬かな)」(작가 ナガノ) 미리보기 그림 (https://store.line.me/stickershop/product/17837804/ja) — 스티커 461285100(벽지 두 번째 그림: 순록 썰매, 글귀 제거), 461285101(목록: 산타 옷 셋, メリークリスマス!! 글귀 제거)
+- 로딩 그림: 이 테마용 공식 움직이는 스티커가 없어 서기 그림을 깡충 뛰게 만든 12프레임 동작입니다(공식 애니메이션 아님).
+- 그림 테마는 공식 그림을 담고 있습니다. 비영리로만 쓰고, 권리자가 요청하면 바로 지웁니다.
+
+## 겨울 (`themes/winter/`)
+
+기간: 2026-12-01~2027-02-28(KST, `gallery.json` `from`·`until`).
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [winter-light.json](themes/winter/winter-light.json) | 겨울 눈송이 | light | 없음(색만) |
+| [winter-dark.json](themes/winter/winter-dark.json) | 겨울 밤눈 | dark | 없음(색만) |
+| [winter-light-img.json](themes/winter/winter-light-img.json) | 겨울 눈송이 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [winter-dark-img.json](themes/winter/winter-dark-img.json) | 겨울 밤눈 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+### 저작권과 출처
+
+- 팬 메이드·비공식·비영리 테마입니다. 원작자나 공식 측과 관계가 없습니다.
+- 「ちいかわ」 © nagano / chiikawa committee
+- 그림은 아래 공식 LINE 스티커 그림(평면 일러스트)에서 글귀를 지우고 잘라 썼습니다. 굿즈 사진과 새로 그린 그림은 없습니다.
+  - LINE STORE 공식 스티커 「ちいかわ(冬かな)」(작가 ナガノ) 미리보기 그림 (https://store.line.me/stickershop/product/17837804/ja) — 스티커 461285098(서기·마스코트·로딩: 목도리 치이카와, 말풍선 제거), 461285085(벽지 두 번째 그림: 코타츠, 글귀 제거), 461285071(목록: 곰 모자 치이카와·하치와레, 글귀 제거), 461285090(배지: 온천 통 하치와레, 글귀 제거)
+- 로딩 그림: 이 테마용 공식 움직이는 스티커가 없어 서기 그림을 깡충 뛰게 만든 12프레임 동작입니다(공식 애니메이션 아님).
+- 그림 테마는 공식 그림을 담고 있습니다. 비영리로만 쓰고, 권리자가 요청하면 바로 지웁니다.
+
+## 세이렌 (`themes/siren/`)
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [siren-light.json](themes/siren/siren-light.json) | 세이렌 산호 | light | 없음(색만) |
+| [siren-dark.json](themes/siren/siren-dark.json) | 세이렌 심해 | dark | 없음(색만) |
+| [siren-light-img.json](themes/siren/siren-light-img.json) | 세이렌 산호 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [siren-dark-img.json](themes/siren/siren-dark-img.json) | 세이렌 심해 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+### 저작권과 출처
+
+- 팬 메이드·비공식·비영리 테마입니다. 원작자나 공식 측과 관계가 없습니다.
+- 세이렌(セイレーン)은 『映画ちいかわ 人魚の島のひみつ』에 나오는 캐릭터입니다. 「ちいかわ」 © nagano / chiikawa committee
+- 그림은 아래 공식 LINE 스티커 그림(평면 일러스트)에서 글귀를 지우고 잘라 썼습니다. 굿즈 사진과 새로 그린 그림은 없습니다.
+  - LINE STORE 공식 스티커 「『映画ちいかわ 人魚の島のひみつ』第１弾」(QTORY inc.) 미리보기 그림 (https://store.line.me/stickershop/product/37824/ja) — 스티커 894148998(서기·마스코트·로딩, エェ~? 글귀 제거), 894149027(목록: 붕어빵 탄 세이렌, 글귀 제거)
+  - LINE STORE 공식 스티커 「『映画ちいかわ 人魚の島のひみつ』第２弾」(QTORY inc.) 미리보기 그림 (https://store.line.me/stickershop/product/37825/ja) — 스티커 898125143(벽지 두 번째 그림, ごめんねー 글귀 제거), 898125157(배지)
+- 로딩 그림: 이 테마용 공식 움직이는 스티커가 없어 서기 그림을 깡충 뛰게 만든 12프레임 동작입니다(공식 애니메이션 아님).
+- 그림 테마는 공식 그림을 담고 있습니다. 비영리로만 쓰고, 권리자가 요청하면 바로 지웁니다.
+
+## 후루혼야(古本屋) (`themes/furuhonya/`)
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [furuhonya-light.json](themes/furuhonya/furuhonya-light.json) | 후루혼야 빵집 | light | 없음(색만) |
+| [furuhonya-dark.json](themes/furuhonya/furuhonya-dark.json) | 후루혼야 야간 | dark | 없음(색만) |
+| [furuhonya-light-img.json](themes/furuhonya/furuhonya-light-img.json) | 후루혼야 빵집 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [furuhonya-dark-img.json](themes/furuhonya/furuhonya-dark-img.json) | 후루혼야 야간 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+### 저작권과 출처
+
+- 팬 메이드·비공식·비영리 테마입니다. 원작자나 공식 측과 관계가 없습니다.
+- 후루혼야(古本屋)는 「ちいかわ」에 나오는 헌책방 주인 캐릭터입니다. 「ちいかわ」 © nagano / chiikawa committee
+- 색과 그림 테마(`-img`)의 그림은 아래 공식 그림에서 가져왔습니다. 배경·고리·글귀는 지웠고, 새로 그린 그림은 없습니다.
+  - 공식 굿즈샵 ちいかわマーケット의 평면 스티커 상품 그림(인형·키링 등 입체 굿즈 아님) 「ちいかわベーカリー スマホに貼れるサイズの手触りのいいステッカー（スタッフさんな古本屋）」(서기·마스코트·로딩) (https://chiikawamarket.jp/products/4571609399131)
+  - 「古本屋のスマホに貼れるサイズのステッカー（喜びのおすそわけ）」(벽지 두 번째 그림) (https://chiikawamarket.jp/products/4571609394587)
+  - 「スマホに貼れるサイズのステッカー（古本屋 ピース）」(목록) (https://chiikawamarket.jp/products/4571609333760)
+  - 「ミニデコステッカー（しろめ古本屋）」(배지) (https://chiikawamarket.jp/products/4550432245044)
+- 로딩 그림: 이 캐릭터의 공식 움직이는 스티커가 없어 서기 그림을 깡충 뛰게 만든 12프레임 동작입니다(공식 애니메이션 아님).
+- 그림 테마는 공식 그림을 담고 있습니다. 비영리로만 쓰고, 권리자가 요청하면 바로 지웁니다.
+
+## 시마지로(島二郎) (`themes/shimajiro/`)
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [shimajiro-light.json](themes/shimajiro/shimajiro-light.json) | 시마지로 식당 | light | 없음(색만) |
+| [shimajiro-dark.json](themes/shimajiro/shimajiro-dark.json) | 시마지로 야식 | dark | 없음(색만) |
+| [shimajiro-light-img.json](themes/shimajiro/shimajiro-light-img.json) | 시마지로 식당 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [shimajiro-dark-img.json](themes/shimajiro/shimajiro-dark-img.json) | 시마지로 야식 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+### 저작권과 출처
+
+- 팬 메이드·비공식·비영리 테마입니다. 원작자나 공식 측과 관계가 없습니다.
+- 시마지로(島二郎)는 『映画ちいかわ 人魚の島のひみつ』에 나오는 섬 식당 주인 캐릭터입니다. 「ちいかわ」 © nagano / chiikawa committee
+- 그림은 아래 공식 LINE 스티커 그림(평면 일러스트)에서 글귀·배경 소품을 지우고 잘라 썼습니다. 굿즈 사진과 새로 그린 그림은 없습니다.
+  - LINE STORE 공식 스티커 「『映画ちいかわ 人魚の島のひみつ』第１弾」(QTORY inc.) 미리보기 그림 (https://store.line.me/stickershop/product/37824/ja) — 스티커 894149021(서기·마스코트·로딩, 글귀 제거), 894149030(벽지 두 번째 그림, 글귀 제거)
+  - LINE STORE 공식 스티커 「『映画ちいかわ 人魚の島のひみつ』第２弾」(QTORY inc.) 미리보기 그림 (https://store.line.me/stickershop/product/37825/ja) — 스티커 898125160(목록: 한 손 든 시마지로, 글귀·뒤 바위 제거)
+  - LINE STORE 공식 스티커 「ちいかわ(ちいかわ多)」(작가 ナガノ) 미리보기 그림 (https://store.line.me/stickershop/product/25264193/ja) — 스티커 641811427(배지, 新年·謹賀 글귀 제거)
+- 로딩 그림: 이 테마용 공식 움직이는 스티커가 없어 서기 그림을 깡충 뛰게 만든 12프레임 동작입니다(공식 애니메이션 아님).
 - 그림 테마는 공식 그림을 담고 있습니다. 비영리로만 쓰고, 권리자가 요청하면 바로 지웁니다.

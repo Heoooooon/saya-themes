@@ -1,0 +1,25 @@
+{
+  "name": "성탄 트리 🎄",
+  "mode": "light",
+  "description": "팬 메이드·비공식·비영리 크리스마스 테마. 그림은 공식 LINE 스티커 ちいかわ(冬かな)·ちいかわ × LINEギフト에서 글자를 지우고 잘라 썼습니다. © nagano / chiikawa committee",
+  "tokens": {
+    "wall": "#fbf3e8",
+    "header": "#f3dcc8",
+    "list": "#fffaf4",
+    "listSelected": "#f8dcd4",
+    "listHover": "#fbeee4",
+    "listFill": "#f5e4d4",
+    "text": "#2c2420",
+    "textMuted": "#5a403a",
+    "rule": "#2f6b3f",
+    "bubbleSelf": "#f6c9c4",
+    "bubbleSelfText": "#2c2420",
+    "bubbleOther": "#fffaf4",
+    "bubbleOtherText": "#2c2420",
+    "link": "#1f5a32",
+    "input": "#fffaf4",
+    "ground": "#f3e4d2",
+    "accent": "#c8323c",
+    "accentText": "#ffffff"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "세이렌 산호 🧜",
+  "mode": "light",
+  "description": "팬 메이드·비공식·비영리 테마. 그림은 공식 LINE 스티커 『映画ちいかわ 人魚の島のひみつ』 第１弾·第２弾에서 글자를 지우고 잘라 썼습니다. © nagano / chiikawa committee",
+  "tokens": {
+    "wall": "#e2eef2",
+    "header": "#cfe1e8",
+    "list": "#f7fbfc",
+    "listSelected": "#cfe3ea",
+    "listHover": "#ecf4f7",
+    "listFill": "#dde9ee",
+    "text": "#1d2226",
+    "textMuted": "#3e4a54",
+    "rule": "#7a98a8",
+    "bubbleSelf": "#cfe4ec",
+    "bubbleSelfText": "#1d2226",
+    "bubbleOther": "#ffffff",
+    "bubbleOtherText": "#1d2226",
+    "link": "#86232c",
+    "input": "#ffffff",
+    "ground": "#d8e6ec",
+    "accent": "#e86b73",
+    "accentText": "#1a1a1a"
+  }
+}
