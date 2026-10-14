@@ -1,0 +1,25 @@
+{
+  "name": "겨울 눈송이 ☃️",
+  "mode": "light",
+  "description": "팬 메이드·비공식·비영리 겨울 테마. 그림은 ちいかわマーケット 공식 ぬくぬくの装いマスコット·プレゼントフォーユーなぬいぐるみ·オデ雪だるまぬいぐるみ 상품 사진에서 배경을 지운 것이고, 눈송이·눈 점은 직접 그렸습니다. © nagano / chiikawa committee",
+  "tokens": {
+    "wall": "#f0f6fb",
+    "header": "#d8e8f4",
+    "list": "#fafdff",
+    "listSelected": "#d2e4f2",
+    "listHover": "#eaf3fa",
+    "listFill": "#dde9f3",
+    "text": "#1f2e3d",
+    "textMuted": "#3e5166",
+    "rule": "#34689a",
+    "bubbleSelf": "#cfe2f2",
+    "bubbleSelfText": "#1f2e3d",
+    "bubbleOther": "#fafdff",
+    "bubbleOtherText": "#1f2e3d",
+    "link": "#1f4a74",
+    "input": "#fafdff",
+    "ground": "#e2edf6",
+    "accent": "#34689a",
+    "accentText": "#ffffff"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "오모냥 먹물 🐾",
+  "mode": "dark",
+  "description": "팬 메이드·비영리 테마. 그림은 오모냥 프로필의 'OmO' 고양이 얼굴(검은 후드 고양이 + 흰 선 OmO)을 벡터 그대로 렌더한 것입니다. 기울이기·깡충·눈 깜빡임만 더했습니다.",
+  "tokens": {
+    "wall": "#071a1b",
+    "header": "#0d2425",
+    "list": "#061415",
+    "listSelected": "#1d3c3d",
+    "listHover": "#0b2021",
+    "listFill": "#142e2f",
+    "text": "#f2f7f6",
+    "textMuted": "#c3d6d4",
+    "rule": "#4f6e6c",
+    "bubbleSelf": "#1f4a4a",
+    "bubbleSelfText": "#ffffff",
+    "bubbleOther": "#142e2f",
+    "bubbleOtherText": "#f2f7f6",
+    "link": "#9fe0d8",
+    "input": "#142e2f",
+    "ground": "#031011",
+    "accent": "#cfe3e1",
+    "accentText": "#041617"
+  }
+}

@@ -23,11 +23,17 @@
 | むちゃうマン（乳酸菌） | [`themes/yusangyun`](themes/yusangyun) | [プレビュー](previews/yusangyun-light.png) | [プレビュー](previews/yusangyun-dark.png) |
 | シーサー（ラーメン屋さんのアルバイト） | [`themes/shisa`](themes/shisa) | [プレビュー](previews/shisa-light.png) | [プレビュー](previews/shisa-dark.png) |
 | ハロウィン（2026年10月1日〜11月7日、KST） | [`themes/halloween`](themes/halloween) | [プレビュー](previews/halloween-light.png) | [プレビュー](previews/halloween-dark.png) |
+| クリスマス（2026年11月20日〜12月26日、KST） | [`themes/christmas`](themes/christmas) | [プレビュー](previews/christmas-light.png) | [プレビュー](previews/christmas-dark.png) |
+| 冬（2026年12月1日〜2027年2月28日、KST） | [`themes/winter`](themes/winter) | [プレビュー](previews/winter-light.png) | [プレビュー](previews/winter-dark.png) |
 | OmO（OmO 公式マスコット） | [`themes/omo`](themes/omo) | [プレビュー](previews/omo-light.png) | [プレビュー](previews/omo-dark.png) |
 | ジャプドリ（作者の許可済み） | [`themes/jabdori`](themes/jabdori) | [プレビュー](previews/jabdori-light.png) | [プレビュー](previews/jabdori-dark.png) |
 | クロワッサンねずみ | [`themes/croissant-mouse`](themes/croissant-mouse) | [プレビュー](previews/croissant-mouse-light.png) | [プレビュー](previews/croissant-mouse-dark.png) |
 | 自分ツッコミくま(ナガノのくま) | [`themes/nagano-bear`](themes/nagano-bear) | [プレビュー](previews/nagano-bear-light.png) | [プレビュー](previews/nagano-bear-dark.png) |
 | ラッコ | [`themes/rakko`](themes/rakko) | [プレビュー](previews/rakko-light.png) | [プレビュー](previews/rakko-dark.png) |
+| オモニャン（オモニャンのプロフィールの OmO ねこ顔） | [`themes/omonyang`](themes/omonyang) | [プレビュー](previews/omonyang-light.png) | [プレビュー](previews/omonyang-dark.png) |
+| ポシェットの鎧さん | [`themes/pochette-yoroi`](themes/pochette-yoroi) | [プレビュー](previews/pochette-yoroi-light.png) | [プレビュー](previews/pochette-yoroi-dark.png) |
+| ラーメンの鎧さん | [`themes/ramen-yoroi`](themes/ramen-yoroi) | [プレビュー](previews/ramen-yoroi-light.png) | [プレビュー](previews/ramen-yoroi-dark.png) |
+| セイレーン（映画ちいかわ） | [`themes/siren`](themes/siren) | [プレビュー](previews/siren-light.png) | [プレビュー](previews/siren-dark.png) |
 
 プレビューのルームとメッセージは架空のものです。
 

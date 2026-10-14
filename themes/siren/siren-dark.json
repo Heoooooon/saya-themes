@@ -1,0 +1,25 @@
+{
+  "name": "세이렌 심해 🧜",
+  "mode": "dark",
+  "description": "팬 메이드·비공식·비영리 테마. 그림은 ちいかわマーケット 공식 映画ちいかわ 상품 사진(ちょっと大きなセイレーンぬいぐるみ, ひっかけぬいぐるみ, ぷっくりアクリルマグネット, マスコット)에서 배경·고리를 지운 것입니다. © nagano / chiikawa committee",
+  "tokens": {
+    "wall": "#152430",
+    "header": "#1e3240",
+    "list": "#10202a",
+    "listSelected": "#2f4a5a",
+    "listHover": "#1a2d3a",
+    "listFill": "#243a48",
+    "text": "#f3f6f8",
+    "textMuted": "#c8d4dc",
+    "rule": "#8fa8b8",
+    "bubbleSelf": "#2d5068",
+    "bubbleSelfText": "#ffffff",
+    "bubbleOther": "#243a48",
+    "bubbleOtherText": "#f3f6f8",
+    "link": "#ffb3b8",
+    "input": "#243a48",
+    "ground": "#0c171f",
+    "accent": "#f06a72",
+    "accentText": "#1a1a1a"
+  }
+}

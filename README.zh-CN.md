@@ -23,11 +23,17 @@
 | 乳酸菌侠（Muchauman） | [`themes/yusangyun`](themes/yusangyun) | [预览](previews/yusangyun-light.png) | [预览](previews/yusangyun-dark.png) |
 | 风狮（Shisa，拉面店店员） | [`themes/shisa`](themes/shisa) | [预览](previews/shisa-light.png) | [预览](previews/shisa-dark.png) |
 | 万圣节（2026年10月1日至11月7日，KST） | [`themes/halloween`](themes/halloween) | [预览](previews/halloween-light.png) | [预览](previews/halloween-dark.png) |
+| 圣诞节（2026年11月20日至12月26日，KST） | [`themes/christmas`](themes/christmas) | [预览](previews/christmas-light.png) | [预览](previews/christmas-dark.png) |
+| 冬季（2026年12月1日至2027年2月28日，KST） | [`themes/winter`](themes/winter) | [预览](previews/winter-light.png) | [预览](previews/winter-dark.png) |
 | OmO（OmO 官方吉祥物） | [`themes/omo`](themes/omo) | [预览](previews/omo-light.png) | [预览](previews/omo-dark.png) |
 | Jabdori（已获作者许可） | [`themes/jabdori`](themes/jabdori) | [预览](previews/jabdori-light.png) | [预览](previews/jabdori-dark.png) |
 | 可颂鼠 | [`themes/croissant-mouse`](themes/croissant-mouse) | [预览](previews/croissant-mouse-light.png) | [预览](previews/croissant-mouse-dark.png) |
 | 自嘲熊(ナガノのくま) | [`themes/nagano-bear`](themes/nagano-bear) | [预览](previews/nagano-bear-light.png) | [预览](previews/nagano-bear-dark.png) |
 | 海獭(ラッコ) | [`themes/rakko`](themes/rakko) | [预览](previews/rakko-light.png) | [预览](previews/rakko-dark.png) |
+| 오모냥（Omonyang，OmO 猫脸头像） | [`themes/omonyang`](themes/omonyang) | [预览](previews/omonyang-light.png) | [预览](previews/omonyang-dark.png) |
+| 斜挎包铠甲人（ポシェットの鎧さん） | [`themes/pochette-yoroi`](themes/pochette-yoroi) | [预览](previews/pochette-yoroi-light.png) | [预览](previews/pochette-yoroi-dark.png) |
+| 拉面铠甲人（ラーメンの鎧さん） | [`themes/ramen-yoroi`](themes/ramen-yoroi) | [预览](previews/ramen-yoroi-light.png) | [预览](previews/ramen-yoroi-dark.png) |
+| 塞壬（电影《吉伊卡哇》） | [`themes/siren`](themes/siren) | [预览](previews/siren-light.png) | [预览](previews/siren-dark.png) |
 
 预览中的房间和消息都是虚构的。
 

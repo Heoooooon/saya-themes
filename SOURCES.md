@@ -280,3 +280,123 @@ All pictures belong to their rights holders. 「ちいかわ」 © nagano / chii
   - LINE STORE 공식 스티커 「『映画ちいかわ 人魚の島のひみつ』第１弾」(QTORY inc.) 미리보기 그림 (https://store.line.me/stickershop/product/37824/ja) — 스티커 894148995(벽지 두 번째 그림)
   - 로딩 그림: 라코의 공식 움직이는 스티커 가운데 글귀 없는 것이 없어, 위 서기 그림을 깡충 뛰게 만든 12프레임 동작입니다(공식 애니메이션 아님).
 - 그림 테마는 공식 그림을 담고 있습니다. 비영리로만 쓰고, 권리자가 요청하면 바로 지웁니다.
+
+## 오모냥 (`themes/omonyang/`)
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [omonyang-light.json](themes/omonyang/omonyang-light.json) | 오모냥 우유 | light | 없음(색만) |
+| [omonyang-dark.json](themes/omonyang/omonyang-dark.json) | 오모냥 먹물 | dark | 없음(색만) |
+| [omonyang-light-img.json](themes/omonyang/omonyang-light-img.json) | 오모냥 우유 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [omonyang-dark-img.json](themes/omonyang/omonyang-dark-img.json) | 오모냥 먹물 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+- 오모냥(CMORE 작업 도우미) 프로필 그림인 'OmO' 고양이 얼굴(검은 후드 고양이 + 흰 선 `OmO`)입니다. 기존 오모(OmO, `themes/omo/`)의 omo-pet 스프라이트와 다른 그림입니다.
+- 그림은 프로필 아바타를 벡터로 옮긴 경로(work-islands 대시보드 `app.js`의 `CAT`)를 그대로 렌더한 것이고 새로 그리지 않았습니다. 벽지·목록의 기울기, 로딩의 깡충·눈 깜빡임(눈 타원 세로 축소)만 더했습니다.
+- 색: 몸 `#041617`(프로필 그림 불투명 픽셀 측정)·선 흰색. 다크에서는 몸 윤곽이 벽에 묻히지 않게 옅은 테두리 `#cfe3e1`를 둘렀습니다.
+
+## 크리스마스 (`themes/christmas/`)
+
+기간: 2026-11-20~2026-12-26(KST, `gallery.json` `from`·`until`).
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [christmas-light.json](themes/christmas/christmas-light.json) | 성탄 트리 | light | 없음(색만) |
+| [christmas-dark.json](themes/christmas/christmas-dark.json) | 성탄 밤 | dark | 없음(색만) |
+| [christmas-light-img.json](themes/christmas/christmas-light-img.json) | 성탄 트리 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [christmas-dark-img.json](themes/christmas/christmas-dark-img.json) | 성탄 밤 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+### 저작권과 출처
+
+- 팬 메이드·비공식·비영리 테마입니다. 원작자나 공식 측과 관계가 없습니다.
+- 「ちいかわ」 © nagano / chiikawa committee
+- 그림은 공식 굿즈샵 ちいかわマーケット 상품 사진에서 배경을 지운 것입니다(볼체인 제거).
+  - 마스코트·로딩: サンタさんだ！持ちますマスコット（うさぎ） (https://chiikawamarket.jp/products/4582662920255)
+  - 벽지: 持ちますマスコット（ハチワレ） (https://chiikawamarket.jp/products/4582662920248), 同（ちいかわ） (https://chiikawamarket.jp/products/4582662920231), トナカイぬいぐるみ (https://chiikawamarket.jp/products/4571609376538), サンタさんだ！ぬいぐるみS（うさぎ） (https://chiikawamarket.jp/products/4582662922273)
+  - 목록: クリスマスだよ！ぷちミニマスコット（うさぎ） (https://chiikawamarket.jp/products/4589468444558), 同（ハチワレ） (https://chiikawamarket.jp/products/4589468444541)
+  - 배지: クリスマスだよ！ぷちミニマスコット（ちいかわ） (https://chiikawamarket.jp/products/4589468444534)
+- 직접 그린 것: 별·호랑가시·장식 구슬·금색 점 장식, 로딩의 깡충 동작과 반짝이는 별(공식 그림 아님).
+- 그림 테마는 공식 그림을 담고 있습니다. 비영리로만 쓰고, 권리자가 요청하면 바로 지웁니다.
+
+## 겨울 (`themes/winter/`)
+
+기간: 2026-12-01~2027-02-28(KST, `gallery.json` `from`·`until`).
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [winter-light.json](themes/winter/winter-light.json) | 겨울 눈송이 | light | 없음(색만) |
+| [winter-dark.json](themes/winter/winter-dark.json) | 겨울 밤눈 | dark | 없음(색만) |
+| [winter-light-img.json](themes/winter/winter-light-img.json) | 겨울 눈송이 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [winter-dark-img.json](themes/winter/winter-dark-img.json) | 겨울 밤눈 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+### 저작권과 출처
+
+- 팬 메이드·비공식·비영리 테마입니다. 원작자나 공식 측과 관계가 없습니다.
+- 「ちいかわ」 © nagano / chiikawa committee
+- 그림은 공식 굿즈샵 ちいかわマーケット 상품 사진에서 배경을 지운 것입니다(볼체인·눈송이 참·태그 제거).
+  - 마스코트·로딩·벽지: ぬくぬくの装いマスコット（ハチワレ） (https://chiikawamarket.jp/products/4582662920217)
+  - 벽지: ぬくぬくの装いマスコット（ちいかわ） (https://chiikawamarket.jp/products/4582662920200), 同（うさぎ） (https://chiikawamarket.jp/products/4582662920224), プレゼントフォーユーなぬいぐるみ（ちいかわ） (https://chiikawamarket.jp/products/4571609378631)
+  - 목록: プレゼントフォーユーなぬいぐるみ（ハチワレ） (https://chiikawamarket.jp/products/4571609378648), 同（うさぎ） (https://chiikawamarket.jp/products/4571609378655)
+  - 배지: オデ雪だるまぬいぐるみ (https://chiikawamarket.jp/products/4571609380498)
+- 직접 그린 것: 눈송이·눈 점 장식, 로딩의 깡충 동작과 내리는 눈송이(공식 그림 아님).
+- 그림 테마는 공식 그림을 담고 있습니다. 비영리로만 쓰고, 권리자가 요청하면 바로 지웁니다.
+
+## 포셰트 갑옷 씨 (`themes/pochette-yoroi/`)
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [pochette-yoroi-light.json](themes/pochette-yoroi/pochette-yoroi-light.json) | 포셰트 분홍 | light | 없음(색만) |
+| [pochette-yoroi-dark.json](themes/pochette-yoroi/pochette-yoroi-dark.json) | 포셰트 밤길 | dark | 없음(색만) |
+| [pochette-yoroi-light-img.json](themes/pochette-yoroi/pochette-yoroi-light-img.json) | 포셰트 분홍 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [pochette-yoroi-dark-img.json](themes/pochette-yoroi/pochette-yoroi-dark-img.json) | 포셰트 밤길 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+### 저작권과 출처
+
+- 팬 메이드·비공식·비영리 테마입니다. 원작자나 공식 측과 관계가 없습니다.
+- 포셰트 갑옷 씨(ポシェットの鎧さん)는 「ちいかわ」에 나오는 분홍 포셰트를 멘 갑옷 씨입니다. 「ちいかわ」 © nagano / chiikawa committee
+- 색과 그림 테마(`-img`)의 그림은 아래 공식 그림에서 가져왔습니다. 배경·고리·글귀는 지웠고, 새로 그린 그림은 없습니다.
+  - 공식 굿즈샵 ちいかわマーケット 「なかまいっぱいセット2」 소프비 피규어(서기·마스코트·로딩) (https://chiikawamarket.jp/collections/poshettonoyoroisan/products/4979750818639)
+  - 「まじかるちいかわ マジカルチャージマスコット（ポシェットの鎧さん）」(벽지 두 번째 그림) (https://chiikawamarket.jp/collections/poshettonoyoroisan/products/4571609392019)
+  - 「お出かけ楽しみ！な スマホに貼れるサイズのステッカー（散歩）」(목록, 말풍선 제거) (https://chiikawamarket.jp/collections/poshettonoyoroisan/products/4582662978188)
+  - 「ちいかわパーク ミニマスコットキーリング（ポシェットの鎧さん）」(배지) (https://chiikawamarket.jp/collections/poshettonoyoroisan/products/4571609398745)
+- 로딩 그림: 이 캐릭터의 공식 움직이는 스티커가 없어 서기 그림을 깡충 뛰게 만든 12프레임 동작입니다(공식 애니메이션 아님).
+- 그림 테마는 공식 그림을 담고 있습니다. 비영리로만 쓰고, 권리자가 요청하면 바로 지웁니다.
+
+## 라멘 갑옷 씨 (`themes/ramen-yoroi/`)
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [ramen-yoroi-light.json](themes/ramen-yoroi/ramen-yoroi-light.json) | 라멘 갑옷 낮 | light | 없음(색만) |
+| [ramen-yoroi-dark.json](themes/ramen-yoroi/ramen-yoroi-dark.json) | 라멘 갑옷 밤 | dark | 없음(색만) |
+| [ramen-yoroi-light-img.json](themes/ramen-yoroi/ramen-yoroi-light-img.json) | 라멘 갑옷 낮 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [ramen-yoroi-dark-img.json](themes/ramen-yoroi/ramen-yoroi-dark-img.json) | 라멘 갑옷 밤 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+### 저작권과 출처
+
+- 팬 메이드·비공식·비영리 테마입니다. 원작자나 공식 측과 관계가 없습니다.
+- 라멘 갑옷 씨(ラーメンの鎧さん)는 「ちいかわ」에서 라멘집을 하는 갑옷 씨입니다. 「ちいかわ」 © nagano / chiikawa committee
+- 색과 그림 테마(`-img`)의 그림은 아래 공식 그림에서 가져왔습니다. 배경·고리·글귀는 지웠고, 새로 그린 그림은 없습니다.
+  - 공식 굿즈샵 ちいかわマーケット 「ラーメンの鎧さんマスコット」 앞모습(서기·마스코트·로딩)·뒷모습(벽지 두 번째 그림) (https://chiikawamarket.jp/collections/ramennoyoroisan/products/4571609345497)
+  - 「ちいかわパーク ミニマスコットキーリング（ラーメンの鎧さん）」(목록·배지) (https://chiikawamarket.jp/collections/ramennoyoroisan/products/4571609398752)
+- 로딩 그림: 이 캐릭터의 공식 움직이는 스티커가 없어 서기 그림을 깡충 뛰게 만든 12프레임 동작입니다(공식 애니메이션 아님).
+- 그림 테마는 공식 그림을 담고 있습니다. 비영리로만 쓰고, 권리자가 요청하면 바로 지웁니다.
+
+## 세이렌 (`themes/siren/`)
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [siren-light.json](themes/siren/siren-light.json) | 세이렌 산호 | light | 없음(색만) |
+| [siren-dark.json](themes/siren/siren-dark.json) | 세이렌 심해 | dark | 없음(색만) |
+| [siren-light-img.json](themes/siren/siren-light-img.json) | 세이렌 산호 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [siren-dark-img.json](themes/siren/siren-dark-img.json) | 세이렌 심해 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+### 저작권과 출처
+
+- 팬 메이드·비공식·비영리 테마입니다. 원작자나 공식 측과 관계가 없습니다.
+- 세이렌(セイレーン)은 『映画ちいかわ 人魚の島のひみつ』에 나오는 캐릭터입니다. 「ちいかわ」 © nagano / chiikawa committee
+- 색과 그림 테마(`-img`)의 그림은 아래 공식 그림에서 가져왔습니다. 배경·고리·글귀는 지웠고, 새로 그린 그림은 없습니다.
+  - 공식 굿즈샵 ちいかわマーケット 「映画ちいかわ ちょっと大きなセイレーンぬいぐるみ」(서기·마스코트·로딩) (https://chiikawamarket.jp/collections/siren-mermaid/products/4571609399193)
+  - 「映画ちいかわ デスクトップから見守るひっかけぬいぐるみ（セイレーン）」(벽지 두 번째 그림) (https://chiikawamarket.jp/collections/siren-mermaid/products/4571609403340)
+  - 「映画ちいかわ ぷっくりアクリルマグネット（セイレーン）」(목록) (https://chiikawamarket.jp/collections/siren-mermaid/products/4571609405429)
+  - 「映画ちいかわ マスコット（セイレーン/ふつうのお顔）」(배지) (https://chiikawamarket.jp/collections/siren-mermaid/products/4571609399209)
+- 로딩 그림: 이 캐릭터의 공식 움직이는 스티커가 없어 서기 그림을 깡충 뛰게 만든 12프레임 동작입니다(공식 애니메이션 아님).
+- 그림 테마는 공식 그림을 담고 있습니다. 비영리로만 쓰고, 권리자가 요청하면 바로 지웁니다.

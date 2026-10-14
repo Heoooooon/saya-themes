@@ -1,0 +1,25 @@
+{
+  "name": "포셰트 밤길 👜",
+  "mode": "dark",
+  "description": "팬 메이드·비공식·비영리 테마. 그림은 ちいかわマーケット 공식 상품 사진(なかまいっぱいセット2 피규어, マジカルチャージマスコット, ミニマスコットキーリング, お出かけ楽しみ！ステッカー)에서 배경·고리를 지운 것입니다. © nagano / chiikawa committee",
+  "tokens": {
+    "wall": "#2a2529",
+    "header": "#37313a",
+    "list": "#1f1b1e",
+    "listSelected": "#4a3e46",
+    "listHover": "#2b2529",
+    "listFill": "#3a3238",
+    "text": "#f6f0f2",
+    "textMuted": "#d6c8ce",
+    "rule": "#a08a94",
+    "bubbleSelf": "#5a3a48",
+    "bubbleSelfText": "#ffffff",
+    "bubbleOther": "#3a3238",
+    "bubbleOtherText": "#f6f0f2",
+    "link": "#fbc9d6",
+    "input": "#3a3238",
+    "ground": "#171416",
+    "accent": "#f08aa0",
+    "accentText": "#2a1a20"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "겨울 밤눈 ☃️",
+  "mode": "dark",
+  "description": "팬 메이드·비공식·비영리 겨울 테마. 그림은 ちいかわマーケット 공식 ぬくぬくの装いマスコット·プレゼントフォーユーなぬいぐるみ·オデ雪だるまぬいぐるみ 상품 사진에서 배경을 지운 것이고, 눈송이·눈 점은 직접 그렸습니다. © nagano / chiikawa committee",
+  "tokens": {
+    "wall": "#172138",
+    "header": "#213050",
+    "list": "#121a2d",
+    "listSelected": "#30446a",
+    "listHover": "#1b2742",
+    "listFill": "#263859",
+    "text": "#eef4fb",
+    "textMuted": "#c3cfe0",
+    "rule": "#8ec4e8",
+    "bubbleSelf": "#2b4670",
+    "bubbleSelfText": "#ffffff",
+    "bubbleOther": "#213050",
+    "bubbleOtherText": "#eef4fb",
+    "link": "#9fd0f4",
+    "input": "#213050",
+    "ground": "#0d1425",
+    "accent": "#8ec4e8",
+    "accentText": "#172138"
+  }
+}
