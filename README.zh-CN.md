@@ -31,12 +31,8 @@
 | 自嘲熊(ナガノのくま) | [`themes/nagano-bear`](themes/nagano-bear) | [预览](previews/nagano-bear-light.png) | [预览](previews/nagano-bear-dark.png) |
 | 海獭(ラッコ) | [`themes/rakko`](themes/rakko) | [预览](previews/rakko-light.png) | [预览](previews/rakko-dark.png) |
 | 오모냥（Omonyang，OmO 猫脸头像） | [`themes/omonyang`](themes/omonyang) | [预览](previews/omonyang-light.png) | [预览](previews/omonyang-dark.png) |
-| 斜挎包铠甲人（ポシェットの鎧さん） | [`themes/pochette-yoroi`](themes/pochette-yoroi) | [预览](previews/pochette-yoroi-light.png) | [预览](previews/pochette-yoroi-dark.png) |
-| 拉面铠甲人（ラーメンの鎧さん） | [`themes/ramen-yoroi`](themes/ramen-yoroi) | [预览](previews/ramen-yoroi-light.png) | [预览](previews/ramen-yoroi-dark.png) |
 | 塞壬（电影《吉伊卡哇》） | [`themes/siren`](themes/siren) | [预览](previews/siren-light.png) | [预览](previews/siren-dark.png) |
 | 旧书店老板（古本屋） | [`themes/furuhonya`](themes/furuhonya) | [预览](previews/furuhonya-light.png) | [预览](previews/furuhonya-dark.png) |
-| 奥德（オデ） | [`themes/ode`](themes/ode) | [预览](previews/ode-light.png) | [预览](previews/ode-dark.png) |
-| 大强（でかつよ） | [`themes/dekatsuyo`](themes/dekatsuyo) | [预览](previews/dekatsuyo-light.png) | [预览](previews/dekatsuyo-dark.png) |
 | 岛二郎（島二郎，电影） | [`themes/shimajiro`](themes/shimajiro) | [预览](previews/shimajiro-light.png) | [预览](previews/shimajiro-dark.png) |
 
 预览中的房间和消息都是虚构的。

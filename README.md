@@ -31,12 +31,8 @@ Every character has four files under `themes/<id>/`: light and dark, each with c
 | Nagano Bear (Damgom) | [`themes/nagano-bear`](themes/nagano-bear) | [preview](previews/nagano-bear-light.png) | [preview](previews/nagano-bear-dark.png) |
 | Rakko (sea otter) | [`themes/rakko`](themes/rakko) | [preview](previews/rakko-light.png) | [preview](previews/rakko-dark.png) |
 | Omonyang (the OmO cat face from the Omonyang profile) | [`themes/omonyang`](themes/omonyang) | [preview](previews/omonyang-light.png) | [preview](previews/omonyang-dark.png) |
-| Pochette Yoroi-san (armor with a pink pochette) | [`themes/pochette-yoroi`](themes/pochette-yoroi) | [preview](previews/pochette-yoroi-light.png) | [preview](previews/pochette-yoroi-dark.png) |
-| Ramen Yoroi-san (the ramen-shop armor) | [`themes/ramen-yoroi`](themes/ramen-yoroi) | [preview](previews/ramen-yoroi-light.png) | [preview](previews/ramen-yoroi-dark.png) |
 | Siren (from the Chiikawa movie) | [`themes/siren`](themes/siren) | [preview](previews/siren-light.png) | [preview](previews/siren-dark.png) |
 | Furuhonya (the used-bookstore owner) | [`themes/furuhonya`](themes/furuhonya) | [preview](previews/furuhonya-light.png) | [preview](previews/furuhonya-dark.png) |
-| Ode (the one-eyed giant) | [`themes/ode`](themes/ode) | [preview](previews/ode-light.png) | [preview](previews/ode-dark.png) |
-| Dekatsuyo (the big strong fluffball) | [`themes/dekatsuyo`](themes/dekatsuyo) | [preview](previews/dekatsuyo-light.png) | [preview](previews/dekatsuyo-dark.png) |
 | Shimajiro (the island diner owner, from the movie) | [`themes/shimajiro`](themes/shimajiro) | [preview](previews/shimajiro-light.png) | [preview](previews/shimajiro-dark.png) |
 
 Previews use made-up rooms and messages.

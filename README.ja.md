@@ -31,12 +31,8 @@
 | 自分ツッコミくま(ナガノのくま) | [`themes/nagano-bear`](themes/nagano-bear) | [プレビュー](previews/nagano-bear-light.png) | [プレビュー](previews/nagano-bear-dark.png) |
 | ラッコ | [`themes/rakko`](themes/rakko) | [プレビュー](previews/rakko-light.png) | [プレビュー](previews/rakko-dark.png) |
 | オモニャン（オモニャンのプロフィールの OmO ねこ顔） | [`themes/omonyang`](themes/omonyang) | [プレビュー](previews/omonyang-light.png) | [プレビュー](previews/omonyang-dark.png) |
-| ポシェットの鎧さん | [`themes/pochette-yoroi`](themes/pochette-yoroi) | [プレビュー](previews/pochette-yoroi-light.png) | [プレビュー](previews/pochette-yoroi-dark.png) |
-| ラーメンの鎧さん | [`themes/ramen-yoroi`](themes/ramen-yoroi) | [プレビュー](previews/ramen-yoroi-light.png) | [プレビュー](previews/ramen-yoroi-dark.png) |
 | セイレーン（映画ちいかわ） | [`themes/siren`](themes/siren) | [プレビュー](previews/siren-light.png) | [プレビュー](previews/siren-dark.png) |
 | 古本屋 | [`themes/furuhonya`](themes/furuhonya) | [プレビュー](previews/furuhonya-light.png) | [プレビュー](previews/furuhonya-dark.png) |
-| オデ | [`themes/ode`](themes/ode) | [プレビュー](previews/ode-light.png) | [プレビュー](previews/ode-dark.png) |
-| でかつよ | [`themes/dekatsuyo`](themes/dekatsuyo) | [プレビュー](previews/dekatsuyo-light.png) | [プレビュー](previews/dekatsuyo-dark.png) |
 | 島二郎（映画ちいかわ） | [`themes/shimajiro`](themes/shimajiro) | [プレビュー](previews/shimajiro-light.png) | [プレビュー](previews/shimajiro-dark.png) |
 
 プレビューのルームとメッセージは架空のものです。
