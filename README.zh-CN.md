@@ -26,6 +26,8 @@
 | OmO（OmO 官方吉祥物） | [`themes/omo`](themes/omo) | [预览](previews/omo-light.png) | [预览](previews/omo-dark.png) |
 | Jabdori（已获作者许可） | [`themes/jabdori`](themes/jabdori) | [预览](previews/jabdori-light.png) | [预览](previews/jabdori-dark.png) |
 | 可颂鼠 | [`themes/croissant-mouse`](themes/croissant-mouse) | [预览](previews/croissant-mouse-light.png) | [预览](previews/croissant-mouse-dark.png) |
+| 自嘲熊(ナガノのくま) | [`themes/nagano-bear`](themes/nagano-bear) | [预览](previews/nagano-bear-light.png) | [预览](previews/nagano-bear-dark.png) |
+| 海獭(ラッコ) | [`themes/rakko`](themes/rakko) | [预览](previews/rakko-light.png) | [预览](previews/rakko-dark.png) |
 
 预览中的房间和消息都是虚构的。
 

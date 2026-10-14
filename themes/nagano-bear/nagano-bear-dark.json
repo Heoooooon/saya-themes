@@ -1,0 +1,25 @@
+{
+  "name": "담곰 한밤 🐻‍❄️",
+  "mode": "dark",
+  "description": "팬 메이드·비공식·비영리 테마. 그림은 직접 만든 팬아트(공식 그림 아님), 색은 하얀 털·옅은 회색 그림자·짙은 회색 선에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#1f2226",
+    "header": "#2a2e33",
+    "list": "#191b1e",
+    "listSelected": "#3a4048",
+    "listHover": "#24282c",
+    "listFill": "#30353b",
+    "text": "#f8f8f8",
+    "textMuted": "#c3c9d0",
+    "rule": "#d8e0e8",
+    "bubbleSelf": "#44505c",
+    "bubbleSelfText": "#ffffff",
+    "bubbleOther": "#30353b",
+    "bubbleOtherText": "#f8f8f8",
+    "link": "#b8d0e8",
+    "input": "#30353b",
+    "ground": "#121416",
+    "accent": "#d8e0e8",
+    "accentText": "#1f2226"
+  }
+}

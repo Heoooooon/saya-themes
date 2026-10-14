@@ -239,3 +239,35 @@ All pictures belong to their rights holders. 「ちいかわ」 © nagano / chii
 - wall: `idle`·`jet`(크로아상 로켓), list: `fall-land`, mascot·badge: `idle`, loader: `rocket` 크로아상 로켓 반복(8fps, 3초 루프, 전 프레임 같은 bbox·배율). saya는 헤더 배지를 누르면 이 로더를 2.4초 재생하므로 클릭해도 로켓이 나옵니다.
 - 색: 흰 털 `#f8f0f0`·분홍 귀 `#f8c0b0`·구운 크로아상 갈색(불투명 픽셀 측정 후 조정).
 - 크기: 팩 자체가 모든 동작에서 귀 크기를 맞춘 2배 셀이라, 모든 동작에 같은 배율(0.5)을 곱했습니다. 2판 교체 때는 1판 테마에서 쓴 배율을 그대로 쓰고, 동작마다 분홍 귀 면적 비율로 보정해 테마 안 머리 크기를 1판과 맞췄습니다(차이 4% 이내).
+
+## 농담곰(담곰) (`themes/nagano-bear/`)
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [nagano-bear-light.json](themes/nagano-bear/nagano-bear-light.json) | 담곰 눈송이 | light | 없음(색만) |
+| [nagano-bear-dark.json](themes/nagano-bear/nagano-bear-dark.json) | 담곰 한밤 | dark | 없음(색만) |
+| [nagano-bear-light-img.json](themes/nagano-bear/nagano-bear-light-img.json) | 담곰 눈송이 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [nagano-bear-dark-img.json](themes/nagano-bear/nagano-bear-dark-img.json) | 담곰 한밤 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+- 농담곰(自分ツッコミくま, 「ナガノのくま」)은 ナガノ 작가의 캐릭터입니다. © nagano
+- **그림은 직접 만든 팬아트입니다.** 공식 그림·스티커·상품 사진을 복사하거나 오려 쓰지 않았습니다. 이미지 생성 모델(gemini-3.1-flash-image)에 캐릭터의 생김새를 글로 설명해 서기·앉기·만세 세 포즈를 초록 단색 배경으로 그리고, 배경을 지워 투명 PNG로 만들었습니다. 로딩 그림은 서 있는 그림을 깡충 뛰게 만든 12프레임 동작이며 공식 애니메이션이 아닙니다.
+- wall: 서기·앉기, list: 만세, mascot: 서기, badge: 서기 그림의 머리, loader: 서기 깡충(12fps).
+- 색: 하얀 털 `#f8f8f8`·옅은 회색 그림자 `#d8e0e8`·짙은 회색 선 `#585858`(그림의 불투명 픽셀 측정 후 조정).
+- 크기: 기존 12개 그림 테마의 칸별 캐릭터 크기(최대 변 중앙값: 벽지 196·201px, 목록 86px, 마스코트 220px, 배지 56px, 로딩 118px)에 맞췄습니다. 측정 결과 차이는 2% 이내입니다.
+- 팬 메이드·비공식·비영리 테마입니다. 원작자나 공식 측과 관계가 없고, 캐릭터의 권리는 원작자에게 있습니다. 권리자가 요청하면 바로 지웁니다.
+
+## 라코(해달) (`themes/rakko/`)
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [rakko-light.json](themes/rakko/rakko-light.json) | 라코 바닷가 | light | 없음(색만) |
+| [rakko-dark.json](themes/rakko/rakko-dark.json) | 라코 밤바다 | dark | 없음(색만) |
+| [rakko-light-img.json](themes/rakko/rakko-light-img.json) | 라코 바닷가 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [rakko-dark-img.json](themes/rakko/rakko-dark-img.json) | 라코 밤바다 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+- 라코(ラッコ)는 「ちいかわ」에 나오는 해달 캐릭터입니다. 「ちいかわ」 © nagano / chiikawa committee
+- **그림은 직접 만든 팬아트입니다.** 공식 그림·스티커·상품 사진을 복사하거나 오려 쓰지 않았습니다. 이미지 생성 모델(gemini-3.1-flash-image)에 캐릭터의 생김새를 글로 설명해 서기·앉기·만세 세 포즈를 초록 단색 배경으로 그리고, 배경을 지워 투명 PNG로 만들었습니다. 로딩 그림은 서 있는 그림을 깡충 뛰게 만든 12프레임 동작이며 공식 애니메이션이 아닙니다.
+- wall: 서기·앉기, list: 만세, mascot: 서기, badge: 서기 그림의 머리, loader: 서기 깡충(12fps).
+- 색: 갈색 털 `#c08048`·크림색 얼굴 `#f8e8c8`·짙은 갈색 선 `#503018`(그림의 불투명 픽셀 측정 후 조정).
+- 크기: 기존 12개 그림 테마의 칸별 캐릭터 크기(최대 변 중앙값: 벽지 196·201px, 목록 86px, 마스코트 220px, 배지 56px, 로딩 118px)에 맞췄습니다. 측정 결과 차이는 2% 이내입니다.
+- 팬 메이드·비공식·비영리 테마입니다. 원작자나 공식 측과 관계가 없고, 캐릭터의 권리는 원작자에게 있습니다. 권리자가 요청하면 바로 지웁니다.

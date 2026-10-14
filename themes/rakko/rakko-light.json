@@ -1,0 +1,25 @@
+{
+  "name": "라코 바닷가 🦦",
+  "mode": "light",
+  "description": "팬 메이드·비공식·비영리 테마. 그림은 직접 만든 팬아트(공식 그림 아님), 색은 갈색 털·크림색 얼굴·짙은 갈색 선에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#fbf3e6",
+    "header": "#f1e0c6",
+    "list": "#fffaf2",
+    "listSelected": "#f0d8b8",
+    "listHover": "#fdf6ec",
+    "listFill": "#f3e6d2",
+    "text": "#3a2414",
+    "textMuted": "#6b4c34",
+    "rule": "#c08048",
+    "bubbleSelf": "#f8e0c0",
+    "bubbleSelfText": "#3a2414",
+    "bubbleOther": "#fffaf2",
+    "bubbleOtherText": "#3a2414",
+    "link": "#7a4210",
+    "input": "#fffaf2",
+    "ground": "#f2e4cf",
+    "accent": "#c08048",
+    "accentText": "#2a180c"
+  }
+}

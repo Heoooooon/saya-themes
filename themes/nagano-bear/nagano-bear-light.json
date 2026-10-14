@@ -1,0 +1,25 @@
+{
+  "name": "담곰 눈송이 🐻‍❄️",
+  "mode": "light",
+  "description": "팬 메이드·비공식·비영리 테마. 그림은 직접 만든 팬아트(공식 그림 아님), 색은 하얀 털·옅은 회색 그림자·짙은 회색 선에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#f4f6f8",
+    "header": "#e6ebef",
+    "list": "#fbfcfd",
+    "listSelected": "#dde5ec",
+    "listHover": "#f6f8fa",
+    "listFill": "#e9eef2",
+    "text": "#2a2c30",
+    "textMuted": "#555a62",
+    "rule": "#9fb0bf",
+    "bubbleSelf": "#dbe4ec",
+    "bubbleSelfText": "#2a2c30",
+    "bubbleOther": "#ffffff",
+    "bubbleOtherText": "#2a2c30",
+    "link": "#2f5674",
+    "input": "#fbfcfd",
+    "ground": "#e8edf1",
+    "accent": "#585858",
+    "accentText": "#ffffff"
+  }
+}
