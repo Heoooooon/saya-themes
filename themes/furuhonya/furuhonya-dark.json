@@ -1,0 +1,25 @@
+{
+  "name": "후루혼야 야간 🍞",
+  "mode": "dark",
+  "description": "팬 메이드·비공식·비영리 테마. 그림은 ちいかわマーケット 공식 상품 사진(베이커리 스태프 스티커·스티커·미니 데코 스티커)에서 배경을 지워 썼고, 색은 그 그림(분홍 귀·살구빛 얼굴)에서 뽑았습니다. ©nagano / chiikawa committee",
+  "tokens": {
+    "wall": "#2a2022",
+    "header": "#3a2c2f",
+    "list": "#1f1819",
+    "listSelected": "#52393d",
+    "listHover": "#2d2325",
+    "listFill": "#40302f",
+    "text": "#fbeeee",
+    "textMuted": "#e0c8ca",
+    "rule": "#c8a0a4",
+    "bubbleSelf": "#5a3b40",
+    "bubbleSelfText": "#ffffff",
+    "bubbleOther": "#3a2c2f",
+    "bubbleOtherText": "#fbeeee",
+    "link": "#f8b8c0",
+    "input": "#3a2c2f",
+    "ground": "#171112",
+    "accent": "#f4a8b0",
+    "accentText": "#2a1518"
+  }
+}

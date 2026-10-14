@@ -1,0 +1,25 @@
+{
+  "name": "데카츠요 밤길 👹",
+  "mode": "dark",
+  "description": "팬 메이드·비공식·비영리 테마. 그림은 ちいかわマーケット 공식 상품 사진(마스코트·파우치·모자·피규어 키홀더)에서 배경을 지워 썼고, 색은 그 그림(노란 갈기·흰 얼굴·검은 팔)에서 뽑았습니다. ©nagano / chiikawa committee",
+  "tokens": {
+    "wall": "#28261a",
+    "header": "#383520",
+    "list": "#1d1b12",
+    "listSelected": "#4e4a2a",
+    "listHover": "#2d2b1c",
+    "listFill": "#3e3a24",
+    "text": "#fbf4d2",
+    "textMuted": "#ddd4a8",
+    "rule": "#b8ac6c",
+    "bubbleSelf": "#55502a",
+    "bubbleSelfText": "#ffffff",
+    "bubbleOther": "#383520",
+    "bubbleOtherText": "#fbf4d2",
+    "link": "#f8e27a",
+    "input": "#383520",
+    "ground": "#15140c",
+    "accent": "#f2dc6e",
+    "accentText": "#2a2412"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "데카츠요 갈기 👹",
+  "mode": "light",
+  "description": "팬 메이드·비공식·비영리 테마. 그림은 ちいかわマーケット 공식 상품 사진(마스코트·파우치·모자·피규어 키홀더)에서 배경을 지워 썼고, 색은 그 그림(노란 갈기·흰 얼굴·검은 팔)에서 뽑았습니다. ©nagano / chiikawa committee",
+  "tokens": {
+    "wall": "#faf3d4",
+    "header": "#f2e6b0",
+    "list": "#fffbea",
+    "listSelected": "#f3e6b4",
+    "listHover": "#faf4de",
+    "listFill": "#f2e9c4",
+    "text": "#2a2412",
+    "textMuted": "#4c4322",
+    "rule": "#8c7f48",
+    "bubbleSelf": "#f6e9a8",
+    "bubbleSelfText": "#2a2412",
+    "bubbleOther": "#ffffff",
+    "bubbleOtherText": "#2a2412",
+    "link": "#6a4a0a",
+    "input": "#ffffff",
+    "ground": "#f1e8c2",
+    "accent": "#c9a21e",
+    "accentText": "#1f1a08"
+  }
+}

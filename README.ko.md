@@ -34,6 +34,10 @@
 | 포셰트 갑옷 씨 | [`themes/pochette-yoroi`](themes/pochette-yoroi) | [미리보기](previews/pochette-yoroi-light.png) | [미리보기](previews/pochette-yoroi-dark.png) |
 | 라멘 갑옷 씨 | [`themes/ramen-yoroi`](themes/ramen-yoroi) | [미리보기](previews/ramen-yoroi-light.png) | [미리보기](previews/ramen-yoroi-dark.png) |
 | 세이렌(영화 치이카와) | [`themes/siren`](themes/siren) | [미리보기](previews/siren-light.png) | [미리보기](previews/siren-dark.png) |
+| 후루혼야(古本屋) | [`themes/furuhonya`](themes/furuhonya) | [미리보기](previews/furuhonya-light.png) | [미리보기](previews/furuhonya-dark.png) |
+| 오데(オデ) | [`themes/ode`](themes/ode) | [미리보기](previews/ode-light.png) | [미리보기](previews/ode-dark.png) |
+| 데카츠요(でかつよ) | [`themes/dekatsuyo`](themes/dekatsuyo) | [미리보기](previews/dekatsuyo-light.png) | [미리보기](previews/dekatsuyo-dark.png) |
+| 시마지로(島二郎, 영화) | [`themes/shimajiro`](themes/shimajiro) | [미리보기](previews/shimajiro-light.png) | [미리보기](previews/shimajiro-dark.png) |
 
 미리보기의 방과 메시지는 지어낸 것입니다.
 

@@ -1,0 +1,25 @@
+{
+  "name": "오데 밤바위 🪨",
+  "mode": "dark",
+  "description": "팬 메이드·비공식·비영리 테마. 그림은 ちいかわマーケット 공식 상품 사진(인형·키홀더·홀로그램 스티커)에서 배경을 지워 썼고, 색은 그 그림(크림 몸·황토 옷)에서 뽑았습니다. ©nagano / chiikawa committee",
+  "tokens": {
+    "wall": "#26231a",
+    "header": "#343022",
+    "list": "#1c1a13",
+    "listSelected": "#4b4530",
+    "listHover": "#2b281d",
+    "listFill": "#3a3526",
+    "text": "#f6f0dc",
+    "textMuted": "#d6ccb0",
+    "rule": "#b3a680",
+    "bubbleSelf": "#4d4428",
+    "bubbleSelfText": "#ffffff",
+    "bubbleOther": "#343022",
+    "bubbleOtherText": "#f6f0dc",
+    "link": "#f0d88c",
+    "input": "#343022",
+    "ground": "#15130d",
+    "accent": "#e8cc78",
+    "accentText": "#26200e"
+  }
+}

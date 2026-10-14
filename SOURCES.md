@@ -400,3 +400,86 @@ All pictures belong to their rights holders. 「ちいかわ」 © nagano / chii
   - 「映画ちいかわ マスコット（セイレーン/ふつうのお顔）」(배지) (https://chiikawamarket.jp/collections/siren-mermaid/products/4571609399209)
 - 로딩 그림: 이 캐릭터의 공식 움직이는 스티커가 없어 서기 그림을 깡충 뛰게 만든 12프레임 동작입니다(공식 애니메이션 아님).
 - 그림 테마는 공식 그림을 담고 있습니다. 비영리로만 쓰고, 권리자가 요청하면 바로 지웁니다.
+
+## 후루혼야(古本屋) (`themes/furuhonya/`)
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [furuhonya-light.json](themes/furuhonya/furuhonya-light.json) | 후루혼야 빵집 | light | 없음(색만) |
+| [furuhonya-dark.json](themes/furuhonya/furuhonya-dark.json) | 후루혼야 야간 | dark | 없음(색만) |
+| [furuhonya-light-img.json](themes/furuhonya/furuhonya-light-img.json) | 후루혼야 빵집 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [furuhonya-dark-img.json](themes/furuhonya/furuhonya-dark-img.json) | 후루혼야 야간 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+### 저작권과 출처
+
+- 팬 메이드·비공식·비영리 테마입니다. 원작자나 공식 측과 관계가 없습니다.
+- 후루혼야(古本屋)는 「ちいかわ」에 나오는 헌책방 주인 캐릭터입니다. 「ちいかわ」 © nagano / chiikawa committee
+- 색과 그림 테마(`-img`)의 그림은 아래 공식 그림에서 가져왔습니다. 배경·고리·글귀는 지웠고, 새로 그린 그림은 없습니다.
+  - 공식 굿즈샵 ちいかわマーケット 「ちいかわベーカリー スマホに貼れるサイズの手触りのいいステッカー（スタッフさんな古本屋）」(서기·마스코트·로딩) (https://chiikawamarket.jp/products/4571609399131)
+  - 「古本屋のスマホに貼れるサイズのステッカー（喜びのおすそわけ）」(벽지 두 번째 그림) (https://chiikawamarket.jp/products/4571609394587)
+  - 「スマホに貼れるサイズのステッカー（古本屋 ピース）」(목록) (https://chiikawamarket.jp/products/4571609333760)
+  - 「ミニデコステッカー（しろめ古本屋）」(배지) (https://chiikawamarket.jp/products/4550432245044)
+- 로딩 그림: 이 캐릭터의 공식 움직이는 스티커가 없어 서기 그림을 깡충 뛰게 만든 12프레임 동작입니다(공식 애니메이션 아님).
+- 그림 테마는 공식 그림을 담고 있습니다. 비영리로만 쓰고, 권리자가 요청하면 바로 지웁니다.
+
+## 오데(オデ) (`themes/ode/`)
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [ode-light.json](themes/ode/ode-light.json) | 오데 바위 | light | 없음(색만) |
+| [ode-dark.json](themes/ode/ode-dark.json) | 오데 밤바위 | dark | 없음(색만) |
+| [ode-light-img.json](themes/ode/ode-light-img.json) | 오데 바위 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [ode-dark-img.json](themes/ode/ode-dark-img.json) | 오데 밤바위 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+### 저작권과 출처
+
+- 팬 메이드·비공식·비영리 테마입니다. 원작자나 공식 측과 관계가 없습니다.
+- 오데(オデ)는 「ちいかわ」에 나오는 외눈 캐릭터입니다. 「ちいかわ」 © nagano / chiikawa committee
+- 색과 그림 테마(`-img`)의 그림은 아래 공식 그림에서 가져왔습니다. 배경·고리·글귀는 지웠고, 새로 그린 그림은 없습니다.
+  - 공식 굿즈샵 ちいかわマーケット 「ちいかわパーク ふわふわくったりぬいぐるみ（オデ）」(서기·마스코트·로딩) (https://chiikawamarket.jp/products/4571609351610)
+  - 「「オデ」のぬいぐるみ」(벽지 두 번째 그림) (https://chiikawamarket.jp/products/4582662913578)
+  - 「まじかるちいかわ スマホに貼れるサイズのホログラムステッカー（オデ）」(목록) (https://chiikawamarket.jp/products/4571609330134)
+  - 「ちいかわパーク ミニマスコットキーリング（オデ）」(배지) (https://chiikawamarket.jp/products/4571609398721)
+- 로딩 그림: 이 캐릭터의 공식 움직이는 스티커가 없어 서기 그림을 깡충 뛰게 만든 12프레임 동작입니다(공식 애니메이션 아님).
+- 그림 테마는 공식 그림을 담고 있습니다. 비영리로만 쓰고, 권리자가 요청하면 바로 지웁니다.
+
+## 데카츠요(でかつよ) (`themes/dekatsuyo/`)
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [dekatsuyo-light.json](themes/dekatsuyo/dekatsuyo-light.json) | 데카츠요 갈기 | light | 없음(색만) |
+| [dekatsuyo-dark.json](themes/dekatsuyo/dekatsuyo-dark.json) | 데카츠요 밤길 | dark | 없음(색만) |
+| [dekatsuyo-light-img.json](themes/dekatsuyo/dekatsuyo-light-img.json) | 데카츠요 갈기 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [dekatsuyo-dark-img.json](themes/dekatsuyo/dekatsuyo-dark-img.json) | 데카츠요 밤길 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+### 저작권과 출처
+
+- 팬 메이드·비공식·비영리 테마입니다. 원작자나 공식 측과 관계가 없습니다.
+- 데카츠요(でかつよ)는 「ちいかわ」에 나오는 크고 센 털복숭이 캐릭터입니다. 「ちいかわ」 © nagano / chiikawa committee
+- 색과 그림 테마(`-img`)의 그림은 아래 공식 그림에서 가져왔습니다. 배경·고리·글귀는 지웠고, 새로 그린 그림은 없습니다.
+  - 공식 굿즈샵 ちいかわマーケット 「でかつよぷらりんマスコット」(서기·마스코트·로딩) (https://chiikawamarket.jp/products/4582662944336)
+  - 「リバペン（モモンガ＆でかつよ）」(벽지 두 번째 그림) (https://chiikawamarket.jp/products/4901770719894)
+  - 「ちいかわパーク うきうきぬいぐるみキャップ（でかつよ）」(목록) (https://chiikawamarket.jp/products/4571609362043)
+  - 「ちいかわパーク フィギュアキーホルダー（でかつよ）」(배지) (https://chiikawamarket.jp/products/4573256437846)
+- 로딩 그림: 이 캐릭터의 공식 움직이는 스티커가 없어 서기 그림을 깡충 뛰게 만든 12프레임 동작입니다(공식 애니메이션 아님).
+- 그림 테마는 공식 그림을 담고 있습니다. 비영리로만 쓰고, 권리자가 요청하면 바로 지웁니다.
+
+## 시마지로(島二郎) (`themes/shimajiro/`)
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [shimajiro-light.json](themes/shimajiro/shimajiro-light.json) | 시마지로 식당 | light | 없음(색만) |
+| [shimajiro-dark.json](themes/shimajiro/shimajiro-dark.json) | 시마지로 야식 | dark | 없음(색만) |
+| [shimajiro-light-img.json](themes/shimajiro/shimajiro-light-img.json) | 시마지로 식당 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [shimajiro-dark-img.json](themes/shimajiro/shimajiro-dark-img.json) | 시마지로 야식 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+### 저작권과 출처
+
+- 팬 메이드·비공식·비영리 테마입니다. 원작자나 공식 측과 관계가 없습니다.
+- 시마지로(島二郎)는 『映画ちいかわ 人魚の島のひみつ』에 나오는 섬 식당 주인 캐릭터입니다. 「ちいかわ」 © nagano / chiikawa committee
+- 색과 그림 테마(`-img`)의 그림은 아래 공식 그림에서 가져왔습니다. 배경·고리·글귀는 지웠고, 새로 그린 그림은 없습니다.
+  - LINE STORE 공식 스티커 「『映画ちいかわ 人魚の島のひみつ』第１弾」(QTORY inc.) 미리보기 그림 (https://store.line.me/stickershop/product/37824/ja) — 스티커 894149021(서기·마스코트·로딩, 글귀 제거), 894149030(벽지 두 번째 그림, 글귀 제거)
+  - 공식 굿즈샵 ちいかわマーケット 「映画ちいかわ 島二郎のでっかいソフビフィギュア」(목록) (https://chiikawamarket.jp/products/4571609404651)
+  - LINE STORE 공식 스티커 「ちいかわ(ちいかわ多)」(작가 ナガノ) 미리보기 그림 (https://store.line.me/stickershop/product/25264193/ja) — 스티커 641811427(배지, 新年·謹賀 글귀 제거)
+- 로딩 그림: 이 캐릭터의 공식 움직이는 스티커가 없어 서기 그림을 깡충 뛰게 만든 12프레임 동작입니다(공식 애니메이션 아님).
+- 그림 테마는 공식 그림을 담고 있습니다. 비영리로만 쓰고, 권리자가 요청하면 바로 지웁니다.
