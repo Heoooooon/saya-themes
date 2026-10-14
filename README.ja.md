@@ -26,6 +26,8 @@
 | OmO（OmO 公式マスコット） | [`themes/omo`](themes/omo) | [プレビュー](previews/omo-light.png) | [プレビュー](previews/omo-dark.png) |
 | ジャプドリ（作者の許可済み） | [`themes/jabdori`](themes/jabdori) | [プレビュー](previews/jabdori-light.png) | [プレビュー](previews/jabdori-dark.png) |
 | クロワッサンねずみ | [`themes/croissant-mouse`](themes/croissant-mouse) | [プレビュー](previews/croissant-mouse-light.png) | [プレビュー](previews/croissant-mouse-dark.png) |
+| 自分ツッコミくま(ナガノのくま) | [`themes/nagano-bear`](themes/nagano-bear) | [プレビュー](previews/nagano-bear-light.png) | [プレビュー](previews/nagano-bear-dark.png) |
+| ラッコ | [`themes/rakko`](themes/rakko) | [プレビュー](previews/rakko-light.png) | [プレビュー](previews/rakko-dark.png) |
 
 プレビューのルームとメッセージは架空のものです。
 

@@ -1,0 +1,25 @@
+{
+  "name": "담곰 눈송이 🐻‍❄️",
+  "mode": "light",
+  "description": "팬 메이드·비공식·비영리 테마. 색은 공식 自分ツッコミくま 스티커 그림에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#e3eaf0",
+    "header": "#d3dde6",
+    "list": "#f7f9fb",
+    "listSelected": "#cfdbe5",
+    "listHover": "#eef2f6",
+    "listFill": "#dfe6ec",
+    "text": "#1f2226",
+    "textMuted": "#3b4248",
+    "rule": "#8e9ead",
+    "bubbleSelf": "#cddbe7",
+    "bubbleSelfText": "#1f2226",
+    "bubbleOther": "#ffffff",
+    "bubbleOtherText": "#1f2226",
+    "link": "#1d4260",
+    "input": "#ffffff",
+    "ground": "#d9e1e8",
+    "accent": "#f0946a",
+    "accentText": "#1a1a1a"
+  }
+}

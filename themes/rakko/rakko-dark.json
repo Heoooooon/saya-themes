@@ -1,0 +1,25 @@
+{
+  "name": "라코 밤바다 🦦",
+  "mode": "dark",
+  "description": "팬 메이드·비공식·비영리 테마. 색은 공식 ちいかわ 라코 스티커 그림에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#1b2a30",
+    "header": "#243740",
+    "list": "#16222a",
+    "listSelected": "#3a4d55",
+    "listHover": "#202f36",
+    "listFill": "#2a3a42",
+    "text": "#f8f0d8",
+    "textMuted": "#d2c8ae",
+    "rule": "#9fb7bd",
+    "bubbleSelf": "#2d525c",
+    "bubbleSelfText": "#ffffff",
+    "bubbleOther": "#26343b",
+    "bubbleOtherText": "#f8f0d8",
+    "link": "#f3d68c",
+    "input": "#26343b",
+    "ground": "#111c21",
+    "accent": "#f8e8b8",
+    "accentText": "#2a2416"
+  }
+}

@@ -239,3 +239,44 @@ All pictures belong to their rights holders. 「ちいかわ」 © nagano / chii
 - wall: `idle`·`jet`(크로아상 로켓), list: `fall-land`, mascot·badge: `idle`, loader: `rocket` 크로아상 로켓 반복(8fps, 3초 루프, 전 프레임 같은 bbox·배율). saya는 헤더 배지를 누르면 이 로더를 2.4초 재생하므로 클릭해도 로켓이 나옵니다.
 - 색: 흰 털 `#f8f0f0`·분홍 귀 `#f8c0b0`·구운 크로아상 갈색(불투명 픽셀 측정 후 조정).
 - 크기: 팩 자체가 모든 동작에서 귀 크기를 맞춘 2배 셀이라, 모든 동작에 같은 배율(0.5)을 곱했습니다. 2판 교체 때는 1판 테마에서 쓴 배율을 그대로 쓰고, 동작마다 분홍 귀 면적 비율로 보정해 테마 안 머리 크기를 1판과 맞췄습니다(차이 4% 이내).
+
+## 농담곰(담곰) (`themes/nagano-bear/`)
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [nagano-bear-light.json](themes/nagano-bear/nagano-bear-light.json) | 담곰 눈송이 | light | 없음(색만) |
+| [nagano-bear-dark.json](themes/nagano-bear/nagano-bear-dark.json) | 담곰 한밤 | dark | 없음(색만) |
+| [nagano-bear-light-img.json](themes/nagano-bear/nagano-bear-light-img.json) | 담곰 눈송이 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [nagano-bear-dark-img.json](themes/nagano-bear/nagano-bear-dark-img.json) | 담곰 한밤 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+### 저작권과 출처
+
+- 팬 메이드·비공식·비영리 테마입니다. 원작자나 공식 측과 관계가 없습니다.
+- 농담곰(自分ツッコミくま)은 ナガノ 작가의 캐릭터입니다. © ナガノ
+- 색과 그림 테마(`-img`)의 그림은 아래 공식 그림에서 가져왔습니다. 스티커의 화살표·글귀는 잘라냈고, 새로 그린 그림은 없습니다.
+  - LINE STORE 공식 스티커 「自分ツッコミくま」(작가 ナガノ) 미리보기 그림 (https://store.line.me/stickershop/product/1007666/ja) — 스티커 371745(서기·마스코트·배지), 371749(만세·목록)
+  - LINE STORE 공식 스티커 「自分ツッコミくま６」(작가 ナガノ) 미리보기 그림 (https://store.line.me/stickershop/product/1391344/ja) — 스티커 15231052(앉기)
+  - 로딩 그림: LINE STORE 공식 「自分ツッコミくま(うごうご)」(작가 ナガノ) 움직이는 스티커 17584935를 12fps로 다시 뽑음
+    (https://store.line.me/stickershop/product/8874/ja)
+- 그림 테마는 공식 그림을 담고 있습니다. 비영리로만 쓰고, 권리자가 요청하면 바로 지웁니다.
+
+## 라코(해달) (`themes/rakko/`)
+
+| 파일 | 이름 | 모드 | 그림 |
+| --- | --- | --- | --- |
+| [rakko-light.json](themes/rakko/rakko-light.json) | 라코 바닷가 | light | 없음(색만) |
+| [rakko-dark.json](themes/rakko/rakko-dark.json) | 라코 밤바다 | dark | 없음(색만) |
+| [rakko-light-img.json](themes/rakko/rakko-light-img.json) | 라코 바닷가 그림 | light | 벽지·목록·마스코트·배지·로딩 |
+| [rakko-dark-img.json](themes/rakko/rakko-dark-img.json) | 라코 밤바다 그림 | dark | 벽지·목록·마스코트·배지·로딩 |
+
+### 저작권과 출처
+
+- 팬 메이드·비공식·비영리 테마입니다. 원작자나 공식 측과 관계가 없습니다.
+- 라코(ラッコ)는 「ちいかわ」에 나오는 해달 캐릭터입니다. 「ちいかわ」 © nagano / chiikawa committee
+- 색과 그림 테마(`-img`)의 그림은 아래 공식 그림에서 가져왔습니다. 스티커의 글귀·효과선은 잘라냈고, 새로 그린 그림은 없습니다.
+  - LINE STORE 공식 스티커 「ちいかわ(うさぎ多)」(작가 ナガノ) 미리보기 그림 (https://store.line.me/stickershop/product/21802595/ja) — 스티커 556658148(서기·마스코트·로딩)
+  - LINE STORE 공식 스티커 「ちいかわ(ちいかわ多)」(작가 ナガノ) 미리보기 그림 (https://store.line.me/stickershop/product/25264193/ja) — 스티커 641811419(목록)
+  - LINE STORE 공식 스티커 「ちいかわ(モモンガ多)」(작가 ナガノ) 미리보기 그림 (https://store.line.me/stickershop/product/32411274/ja) — 스티커 806221118(배지)
+  - LINE STORE 공식 스티커 「『映画ちいかわ 人魚の島のひみつ』第１弾」(QTORY inc.) 미리보기 그림 (https://store.line.me/stickershop/product/37824/ja) — 스티커 894148995(벽지 두 번째 그림)
+  - 로딩 그림: 라코의 공식 움직이는 스티커 가운데 글귀 없는 것이 없어, 위 서기 그림을 깡충 뛰게 만든 12프레임 동작입니다(공식 애니메이션 아님).
+- 그림 테마는 공식 그림을 담고 있습니다. 비영리로만 쓰고, 권리자가 요청하면 바로 지웁니다.

@@ -26,6 +26,8 @@ Every character has four files under `themes/<id>/`: light and dark, each with c
 | OmO (the official OmO mascot) | [`themes/omo`](themes/omo) | [preview](previews/omo-light.png) | [preview](previews/omo-dark.png) |
 | Jabdori (used with the creator's permission) | [`themes/jabdori`](themes/jabdori) | [preview](previews/jabdori-light.png) | [preview](previews/jabdori-dark.png) |
 | Croissant Mouse | [`themes/croissant-mouse`](themes/croissant-mouse) | [preview](previews/croissant-mouse-light.png) | [preview](previews/croissant-mouse-dark.png) |
+| Nagano Bear (Damgom) | [`themes/nagano-bear`](themes/nagano-bear) | [preview](previews/nagano-bear-light.png) | [preview](previews/nagano-bear-dark.png) |
+| Rakko (sea otter) | [`themes/rakko`](themes/rakko) | [preview](previews/rakko-light.png) | [preview](previews/rakko-dark.png) |
 
 Previews use made-up rooms and messages.
 

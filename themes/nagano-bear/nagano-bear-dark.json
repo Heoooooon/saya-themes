@@ -1,0 +1,25 @@
+{
+  "name": "담곰 한밤 🐻‍❄️",
+  "mode": "dark",
+  "description": "팬 메이드·비공식·비영리 테마. 색은 공식 自分ツッコミくま 스티커 그림에서 뽑았습니다.",
+  "tokens": {
+    "wall": "#22262b",
+    "header": "#2c3238",
+    "list": "#1b1e22",
+    "listSelected": "#3a424a",
+    "listHover": "#25292e",
+    "listFill": "#30363c",
+    "text": "#f5f5f5",
+    "textMuted": "#ced4db",
+    "rule": "#d8e0e8",
+    "bubbleSelf": "#3d4854",
+    "bubbleSelfText": "#ffffff",
+    "bubbleOther": "#30363c",
+    "bubbleOtherText": "#f5f5f5",
+    "link": "#b9d3ea",
+    "input": "#30363c",
+    "ground": "#15181b",
+    "accent": "#f8a078",
+    "accentText": "#1f1f1f"
+  }
+}

@@ -26,6 +26,8 @@
 | 오모(OmO 공식 마스코트) | [`themes/omo`](themes/omo) | [미리보기](previews/omo-light.png) | [미리보기](previews/omo-dark.png) |
 | 잡도리(원작자 허락) | [`themes/jabdori`](themes/jabdori) | [미리보기](previews/jabdori-light.png) | [미리보기](previews/jabdori-dark.png) |
 | 크로아상쥐 | [`themes/croissant-mouse`](themes/croissant-mouse) | [미리보기](previews/croissant-mouse-light.png) | [미리보기](previews/croissant-mouse-dark.png) |
+| 농담곰(담곰) | [`themes/nagano-bear`](themes/nagano-bear) | [미리보기](previews/nagano-bear-light.png) | [미리보기](previews/nagano-bear-dark.png) |
+| 라코(해달) | [`themes/rakko`](themes/rakko) | [미리보기](previews/rakko-light.png) | [미리보기](previews/rakko-dark.png) |
 
 미리보기의 방과 메시지는 지어낸 것입니다.
 
