@@ -36,6 +36,7 @@ type Card = {
   name: string;
   colors: string[];
   path: string;
+  preview?: unknown;
 };
 type Character = {
   id: string;
@@ -110,6 +111,20 @@ for (const character of gallery) {
     if (names.has(card.name)) fail(`${at}: duplicate theme name`);
     names.add(card.name);
     listed.add(card.path);
+    if (Object.hasOwn(card, "preview")) {
+      const { preview } = card;
+      if (
+        typeof preview !== "string" ||
+        !preview.startsWith("previews/cards/") ||
+        !preview.endsWith(".svg") ||
+        preview.includes("..")
+      )
+        fail(`${at}: preview must be previews/cards/<file>.svg`);
+      else if (!existsSync(resolve(root, preview)))
+        fail(`${at}: preview ${preview} does not exist`);
+      else if (!readFileSync(resolve(root, preview), "utf8").startsWith("<svg"))
+        fail(`${at}: preview ${preview} is not an SVG`);
+    }
     if (!existsSync(resolve(root, card.path))) {
       fail(`${at}: file does not exist`);
       continue;
