@@ -63,7 +63,8 @@ saya 默认从 `https://heoooooon.github.io/saya-themes/gallery.json` 读取列�
    ```
 
 3. 在 [SOURCES.md](SOURCES.md) 中补上角色和出处。
-4. 运行 `bun install` 和 `bun scripts/validate.ts`，然后提交 Pull Request。CI 会运行同样的检查。
+4. 运行 `bun scripts/build-previews.ts`：它用主题的颜色和吉祥物绘制 `previews/cards/<id>-<mode>.svg`，并在合集条目中写入 `preview`，saya 会把它显示为卡片图片（检查要求 `preview` 是 `previews/cards/` 下真实存在的 SVG）。
+5. 运行 `bun install` 和 `bun scripts/validate.ts`，然后提交 Pull Request。CI 会运行同样的检查。
 
 检查会拒绝：saya 会拒绝的主题、任何对比度警告、saya 会忽略的字段、名称/模式/颜色与文件不一致的合集条目、不存在的文件，以及没有合集条目指向的带图文件。规则是 saya 规则的原样副本（`vendor/saya`，来源提交见 [vendor/saya/SOURCE.md](vendor/saya/SOURCE.md)）。
 
