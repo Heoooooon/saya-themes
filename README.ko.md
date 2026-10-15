@@ -63,7 +63,8 @@ saya는 기본으로 `https://heoooooon.github.io/saya-themes/gallery.json`에�
    ```
 
 3. [SOURCES.md](SOURCES.md)에 캐릭터와 출처를 적습니다.
-4. `bun install`과 `bun scripts/validate.ts`를 돌린 뒤 풀 리퀘스트를 엽니다. CI도 같은 검사를 돌립니다.
+4. `bun scripts/build-previews.ts`를 돌립니다: 테마의 색과 마스코트로 `previews/cards/<id>-<mode>.svg`를 그리고 목록 줄에 `preview`를 써 넣으며, saya는 이것을 카드 그림으로 보여 줍니다(검사는 `preview`가 `previews/cards/` 아래 실재하는 SVG이길 요구합니다).
+5. `bun install`과 `bun scripts/validate.ts`를 돌린 뒤 풀 리퀘스트를 엽니다. CI도 같은 검사를 돌립니다.
 
 검사는 다음을 거절합니다: saya가 거절할 테마, 대비 경고, saya가 무시할 필드, 이름·모드·색이 파일과 다른 목록 줄, 없는 파일, 어느 줄도 가리키지 않는 그림판 파일. 규칙은 saya 규칙을 그대로 복사한 것입니다(`vendor/saya`, 원본 커밋은 [vendor/saya/SOURCE.md](vendor/saya/SOURCE.md)).
 

@@ -63,7 +63,8 @@ A saya without picture support ignores `images` and applies the colours only.
    ```
 
 3. Add the character and its sources to [SOURCES.md](SOURCES.md).
-4. Run `bun install` and `bun scripts/validate.ts`, then open a pull request. CI runs the same check.
+4. Run `bun scripts/build-previews.ts`: it draws `previews/cards/<id>-<mode>.svg` from each theme's colours and mascot and writes `preview` on its gallery line, which saya shows as the card's picture (the check requires `preview` to be an existing SVG under `previews/cards/`).
+5. Run `bun install` and `bun scripts/validate.ts`, then open a pull request. CI runs the same check.
 
 The check rejects a theme saya would reject, any contrast warning, any field saya would ignore, a gallery line whose name, mode or colours differ from its file, a missing file, and a pictured file that no gallery line points at. The rules are an unmodified copy of saya's (`vendor/saya`, source commit in [vendor/saya/SOURCE.md](vendor/saya/SOURCE.md)).
 

@@ -63,7 +63,8 @@ saya は既定で `https://heoooooon.github.io/saya-themes/gallery.json` から�
    ```
 
 3. [SOURCES.md](SOURCES.md) にキャラクターと出典を書きます。
-4. `bun install` と `bun scripts/validate.ts` を実行し、プルリクエストを出します。CI も同じチェックを実行します。
+4. `bun scripts/build-previews.ts` を実行します：テーマの色とマスコットから `previews/cards/<id>-<mode>.svg` を描き、テーマ集の行に `preview` を書き込みます。saya はこれをカードの画像として表示します（チェックは `preview` が `previews/cards/` 配下に実在する SVG であることを求めます）。
+5. `bun install` と `bun scripts/validate.ts` を実行し、プルリクエストを出します。CI も同じチェックを実行します。
 
 チェックで落ちるもの：saya が拒否するテーマ、コントラスト警告、saya が無視するフィールド、名前・モード・色がファイルと違うテーマ集の行、存在しないファイル、どの行からも指されていない画像入りファイル。ルールは saya のルールをそのまま写したものです（`vendor/saya`、元のコミットは [vendor/saya/SOURCE.md](vendor/saya/SOURCE.md)）。
 
